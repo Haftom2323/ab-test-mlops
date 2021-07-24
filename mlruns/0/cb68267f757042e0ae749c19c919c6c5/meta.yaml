@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/cb68267f757042e0ae749c19c919c6c5/artifacts
+end_time: 1627134832992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cb68267f757042e0ae749c19c919c6c5
+run_uuid: cb68267f757042e0ae749c19c919c6c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627134832771
+status: 3
+tags: []
+user_id: zefa-n

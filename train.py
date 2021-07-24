@@ -1,30 +1,20 @@
-import dvc.api
-import pandas as pd
 import numpy as np
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-from sklearn.model.selection import train_test_split
-from sklearn.linear.model import ElasticNet
-from urllib.parse import urlparse
+from sklearn.linear_model import LogisticRegression
+
 
 import mlflow
+
 import mlflow.sklearn
-import logging
-logging.basicConfig(level=logging.WARN)
-logger=logging.getLogger(__name__)
-
-import dvc.api
-path='/data/AdSmartABdata.csv'
-repo='C:/Users/zefa-n/Documents/ab-test-mlops'
-version='v1'
-data_url=dvc.api.get_url(path=path,
-                         repo=repo,
-                         rev=version)
-
-mlfow.set_experiment('demo')  
 
 
 if __name__ == "__main__":
-    warnings.filterwarningd("ignore")
-    np.random.seed(40)
 
-    data=pd.read_csv(data_url,sep=",")
+    X = np.array([-2, -1, 0, 1, 2, 1]).reshape(-1, 1)
+    y = np.array([0, 0, 1, 1, 1, 0])
+    lr = LogisticRegression()
+    lr.fit(X, y)
+    score = lr.score(X, y)
+    print("Score: %s" % score)
+    mlflow.log_metric("score", score)
+    mlflow.sklearn.log_model(lr, "model")
+    print("Model saved in run %s" % mlflow.active_run().info.run_uuid)
