@@ -1,0 +1,4 @@
+outs:
+- md5: c15b6a0bd8d651af92ffeedaf8ee57dc
+  size: 54610
+  path: platform.csv
