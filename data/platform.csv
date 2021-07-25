@@ -1,0 +1,1244 @@
+experiment,date,hour,device_make,platform_os,response
+exposed,2020-07-05,2,E5823,6,0
+exposed,2020-07-04,16,Generic Smartphone,6,1
+exposed,2020-07-06,8,Generic Smartphone,6,0
+control,2020-07-08,4,Samsung SM-A202F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-10,2,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,6,I3312,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-03,14,Generic Smartphone,6,0
+control,2020-07-03,15,MRD-LX1,6,0
+exposed,2020-07-09,13,Samsung SM-G935F,6,1
+exposed,2020-07-09,20,Moto $2,6,0
+exposed,2020-07-05,6,Generic Smartphone,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,0
+control,2020-07-06,2,Samsung SM-J600FN,6,0
+control,2020-07-04,16,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-A105FN,6,0
+exposed,2020-07-09,8,Generic Smartphone,6,0
+control,2020-07-09,20,Samsung SM-G930F,6,1
+exposed,2020-07-04,11,Samsung SM-G981B,6,1
+exposed,2020-07-05,19,Generic Smartphone,6,0
+exposed,2020-07-10,5,Generic Smartphone,6,0
+exposed,2020-07-05,2,Generic Smartphone,6,1
+control,2020-07-07,15,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G973F,6,0
+control,2020-07-03,15,ELE-L09,6,1
+exposed,2020-07-09,1,Generic Smartphone,6,1
+control,2020-07-08,18,Generic Smartphone,6,1
+exposed,2020-07-05,0,Generic Smartphone,6,0
+exposed,2020-07-09,20,Samsung SM-G950F,6,0
+control,2020-07-04,19,Generic Smartphone,6,1
+control,2020-07-08,22,Generic Smartphone,6,0
+exposed,2020-07-08,20,Generic Smartphone,6,1
+exposed,2020-07-08,6,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-05,19,Generic Smartphone,6,0
+exposed,2020-07-05,6,Samsung SM-G960F,6,0
+exposed,2020-07-07,3,Samsung SM-N960F,6,0
+exposed,2020-07-10,15,Generic Smartphone,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,1
+exposed,2020-07-09,19,VOG-L09,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-08,21,Generic Smartphone,6,1
+exposed,2020-07-05,21,Generic Smartphone,6,1
+control,2020-07-05,10,Samsung SM-G960F,6,1
+exposed,2020-07-04,5,Samsung SM-G960F,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-08,14,Generic Smartphone,6,1
+exposed,2020-07-08,22,Generic Smartphone,6,0
+control,2020-07-06,8,Samsung SM-A705FN,6,0
+control,2020-07-03,15,Samsung SM-A202F,6,1
+exposed,2020-07-08,21,Samsung SM-A405FN,6,1
+control,2020-07-03,15,LG-$2,6,1
+exposed,2020-07-08,21,Generic Smartphone,6,0
+exposed,2020-07-04,0,Samsung SM-A320FL,6,1
+exposed,2020-07-05,3,Generic Smartphone,6,1
+exposed,2020-07-10,16,Generic Smartphone,6,0
+exposed,2020-07-10,2,Samsung SM-G950F,6,0
+control,2020-07-03,15,Samsung SM-G950F,6,1
+control,2020-07-03,15,ANE-LX1,6,0
+exposed,2020-07-08,16,Generic Smartphone,6,1
+control,2020-07-09,2,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-09,0,Samsung SM-A705FN,6,0
+exposed,2020-07-09,14,Generic Smartphone,6,0
+control,2020-07-03,15,POT-LX1,6,0
+exposed,2020-07-09,8,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G973F,6,0
+exposed,2020-07-09,6,Samsung SM-A505FN,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G960F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-05,0,Generic Smartphone,6,1
+control,2020-07-09,12,Generic Smartphone,6,1
+control,2020-07-05,15,Generic Smartphone,6,0
+exposed,2020-07-09,14,Generic Smartphone,6,1
+control,2020-07-10,12,Generic Smartphone,6,0
+control,2020-07-04,21,Samsung SM-A705FN,6,0
+control,2020-07-08,22,Samsung SM-G950F,6,1
+exposed,2020-07-03,10,Generic Smartphone,6,0
+control,2020-07-07,3,Generic Smartphone,6,1
+control,2020-07-10,13,Samsung SM-G973F,6,1
+exposed,2020-07-03,8,Samsung SM-A300FU,6,1
+control,2020-07-10,2,Samsung SM-A520F,6,0
+control,2020-07-10,9,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G930F,6,1
+exposed,2020-07-08,17,Generic Smartphone,6,0
+exposed,2020-07-03,9,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,1
+control,2020-07-09,15,Generic Smartphone,6,0
+exposed,2020-07-03,0,Generic Smartphone,6,0
+exposed,2020-07-10,17,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-05,10,Generic Smartphone,6,0
+exposed,2020-07-09,16,Generic Smartphone,6,0
+exposed,2020-07-10,12,Generic Smartphone,6,0
+exposed,2020-07-09,19,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-A750FN,6,1
+exposed,2020-07-04,9,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-J330FN,6,0
+exposed,2020-07-05,11,Generic Smartphone,6,0
+control,2020-07-10,5,Generic Smartphone,6,1
+control,2020-07-03,15,OnePlus ONEPLUS A5000,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,STF-L09,6,0
+exposed,2020-07-04,10,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-J330FN,6,1
+exposed,2020-07-09,6,I3312,6,0
+exposed,2020-07-10,5,Moto $2,6,0
+exposed,2020-07-09,19,HTC 10,6,0
+exposed,2020-07-04,16,Samsung SM-J610FN,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-03,1,Generic Smartphone,6,0
+control,2020-07-03,19,iPhone,6,0
+control,2020-07-07,8,Generic Smartphone,6,0
+exposed,2020-07-10,15,Samsung SM-G900F,6,1
+exposed,2020-07-03,12,VOG-L29,6,0
+control,2020-07-03,15,XiaoMi Redmi Note 7,6,0
+exposed,2020-07-05,19,Generic Smartphone,6,0
+control,2020-07-09,14,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-04,9,Generic Smartphone,6,0
+exposed,2020-07-06,0,POT-LX1,6,1
+exposed,2020-07-06,7,Samsung SM-G981B,6,0
+exposed,2020-07-08,17,Generic Smartphone,6,1
+control,2020-07-06,8,Samsung SM-A520F,6,0
+control,2020-07-09,10,Generic Smartphone,6,0
+exposed,2020-07-06,3,Generic Smartphone,6,0
+control,2020-07-06,3,Nokia undefined$2$3,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,0
+control,2020-07-07,16,POT-LX1,6,0
+exposed,2020-07-08,5,ELE-L29,6,0
+control,2020-07-03,15,Huawei Browser,6,0
+control,2020-07-03,15,Samsung SM-A202F,6,0
+exposed,2020-07-07,23,Generic Smartphone,6,1
+control,2020-07-08,20,Generic Smartphone,6,0
+exposed,2020-07-08,17,Samsung SM-G955F,6,0
+exposed,2020-07-05,8,Generic Smartphone,6,0
+exposed,2020-07-08,7,Samsung SM-A920F,6,0
+control,2020-07-08,16,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,22,Samsung SM-A520F,6,0
+exposed,2020-07-04,16,Generic Smartphone,6,1
+exposed,2020-07-09,2,Samsung SM-G950F,6,1
+control,2020-07-03,15,Samsung SM-G950F,6,1
+exposed,2020-07-04,16,Samsung SM-G900F,6,0
+exposed,2020-07-09,13,Generic Smartphone,6,0
+exposed,2020-07-07,20,Samsung SM-A405FN,6,1
+control,2020-07-05,4,Generic Smartphone,6,1
+exposed,2020-07-09,8,Generic Smartphone,6,1
+exposed,2020-07-04,14,Samsung SM-G960F,6,1
+exposed,2020-07-04,8,Nokia$2$3,6,1
+exposed,2020-07-08,16,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-10,0,Generic Smartphone,6,1
+exposed,2020-07-03,8,iPhone,5,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-05,4,Samsung SM-G960F,6,0
+control,2020-07-04,15,Samsung SM-G930F,6,0
+exposed,2020-07-06,1,Samsung SM-A505FN,6,1
+control,2020-07-04,3,Samsung SM-J530F,6,1
+exposed,2020-07-03,6,Nokia$2$3,6,1
+control,2020-07-03,15,Samsung SM-G975F,6,1
+exposed,2020-07-04,16,Generic Smartphone,6,1
+control,2020-07-03,15,VOG-L09,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-10,15,Generic Smartphone,6,1
+exposed,2020-07-05,13,Samsung SM-G965F,6,1
+exposed,2020-07-03,7,LYA-L09,6,0
+control,2020-07-10,16,Generic Smartphone,6,1
+exposed,2020-07-09,9,Generic Smartphone,6,0
+exposed,2020-07-09,13,Nokia$2$3,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,5,Generic Smartphone,6,1
+exposed,2020-07-05,7,Generic Smartphone,6,0
+exposed,2020-07-04,2,Generic Smartphone,6,0
+exposed,2020-07-04,6,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G930F,6,1
+exposed,2020-07-09,22,Generic Smartphone,6,1
+exposed,2020-07-03,2,Nokia undefined$2$3,6,0
+exposed,2020-07-08,18,Samsung SM-G950F,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,4,MAR-LX1A,6,0
+control,2020-07-10,7,Samsung SM-G950F,6,0
+control,2020-07-07,20,Generic Smartphone,6,1
+exposed,2020-07-08,18,Samsung SM-G920F,6,1
+control,2020-07-09,15,Samsung SM-A320FL,6,0
+exposed,2020-07-10,2,Nokia$2$3,6,0
+control,2020-07-03,15,CLT-L09,6,0
+exposed,2020-07-10,9,Generic Smartphone,6,0
+control,2020-07-09,6,Generic Smartphone,6,1
+control,2020-07-09,22,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-J415FN,6,0
+exposed,2020-07-10,11,Samsung $2,6,1
+control,2020-07-10,9,Samsung SM-G950F,6,0
+exposed,2020-07-08,20,Generic Smartphone,6,1
+control,2020-07-05,5,Generic Smartphone,6,0
+control,2020-07-09,18,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G970F,6,0
+exposed,2020-07-05,16,Generic Smartphone,6,0
+exposed,2020-07-09,6,Generic Smartphone,6,0
+control,2020-07-10,9,Generic Smartphone,6,1
+control,2020-07-06,8,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,7,Samsung SM-G986B,6,1
+exposed,2020-07-09,3,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G935F,6,1
+exposed,2020-07-03,10,Generic Smartphone,6,1
+exposed,2020-07-04,14,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G973F,6,0
+exposed,2020-07-08,15,VOG-L29,6,0
+control,2020-07-03,15,Samsung SM-A705FN,6,0
+exposed,2020-07-06,8,Generic Smartphone,6,1
+exposed,2020-07-08,17,LG-$2,6,1
+exposed,2020-07-10,1,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A705FN,6,1
+control,2020-07-03,15,Pixel 3,6,1
+exposed,2020-07-05,8,Samsung SM-J730F,6,1
+control,2020-07-04,3,Generic Smartphone,6,0
+control,2020-07-08,19,Generic Smartphone,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,1
+exposed,2020-07-07,11,Generic Smartphone,6,0
+exposed,2020-07-09,9,Generic Smartphone,6,1
+exposed,2020-07-09,14,Generic Smartphone,6,1
+control,2020-07-04,9,Generic Smartphone,6,0
+control,2020-07-04,6,Generic Smartphone,6,0
+control,2020-07-04,2,Generic Smartphone,6,1
+control,2020-07-10,3,Generic Smartphone,6,0
+exposed,2020-07-09,13,Generic Smartphone,6,0
+exposed,2020-07-05,12,Generic Smartphone,6,0
+exposed,2020-07-08,19,Samsung SM-G960F,6,1
+control,2020-07-07,6,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-07,20,Samsung SM-N960F,6,0
+control,2020-07-10,6,Generic Smartphone,6,1
+exposed,2020-07-05,15,Samsung SM-G950F,6,1
+exposed,2020-07-04,19,Generic Smartphone,6,1
+exposed,2020-07-03,9,Generic Smartphone,6,1
+exposed,2020-07-09,11,Generic Smartphone,6,0
+control,2020-07-06,2,Generic Smartphone,6,0
+exposed,2020-07-10,1,HTC U12+,6,0
+control,2020-07-05,8,Samsung SM-G770F,6,0
+exposed,2020-07-06,3,Generic Smartphone,6,0
+control,2020-07-07,3,Samsung SM-J330G,6,0
+control,2020-07-08,18,Generic Smartphone,6,0
+exposed,2020-07-08,16,Samsung SM-A105FN,6,0
+control,2020-07-08,18,Generic Smartphone,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A715F,6,1
+control,2020-07-10,0,Nokia undefined$2$3,6,1
+exposed,2020-07-09,4,Samsung SM-G975F,6,0
+exposed,2020-07-03,0,Generic Smartphone,6,0
+control,2020-07-05,5,Generic Smartphone,6,0
+exposed,2020-07-10,6,ELE-L09,6,1
+exposed,2020-07-06,1,Generic Smartphone,6,0
+exposed,2020-07-03,7,Generic Smartphone,6,0
+control,2020-07-04,14,Generic Smartphone,6,0
+exposed,2020-07-06,3,Samsung SM-G970F,6,1
+exposed,2020-07-03,7,Generic Smartphone,6,0
+exposed,2020-07-03,1,Samsung SM-J330FN,6,0
+exposed,2020-07-09,10,Generic Smartphone,6,1
+exposed,2020-07-04,7,Generic Smartphone,6,0
+control,2020-07-09,10,I3312,6,0
+control,2020-07-03,15,POT-LX1,6,1
+control,2020-07-09,8,Generic Smartphone,6,0
+control,2020-07-10,10,G3311,6,0
+exposed,2020-07-03,10,Samsung SM-G973F,6,0
+control,2020-07-05,10,Generic Smartphone,6,1
+exposed,2020-07-10,8,Samsung SM-G975F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G950F,6,1
+control,2020-07-05,18,Samsung SM-J320FN,6,0
+control,2020-07-04,20,Samsung SM-G970F,6,1
+exposed,2020-07-05,17,Generic Smartphone,6,0
+exposed,2020-07-04,14,Generic Smartphone,6,1
+control,2020-07-07,10,Generic Smartphone,6,0
+exposed,2020-07-09,8,Generic Smartphone,6,0
+exposed,2020-07-09,6,Samsung SM-G960F,6,1
+control,2020-07-08,7,Generic Smartphone,6,0
+exposed,2020-07-09,21,YAL-L21,6,1
+exposed,2020-07-08,13,Generic Smartphone,6,1
+control,2020-07-04,8,Generic Smartphone,6,1
+exposed,2020-07-09,5,Generic Smartphone,6,0
+exposed,2020-07-08,19,Generic Smartphone,6,0
+control,2020-07-09,14,Generic Smartphone,6,0
+control,2020-07-05,5,Generic Smartphone,6,0
+exposed,2020-07-09,6,Generic Smartphone,6,1
+exposed,2020-07-04,13,Samsung SM-G950F,6,0
+control,2020-07-09,11,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-09,18,Samsung SM-G960F,6,1
+exposed,2020-07-04,10,Generic Smartphone,6,1
+exposed,2020-07-08,20,Samsung SM-J510FN,6,0
+exposed,2020-07-05,10,Generic Smartphone,6,0
+control,2020-07-04,8,XiaoMi Redmi 6A,6,0
+exposed,2020-07-08,18,Generic Smartphone,6,0
+exposed,2020-07-03,9,Generic Smartphone,6,0
+exposed,2020-07-06,9,Generic Smartphone,6,0
+exposed,2020-07-10,3,Generic Smartphone,6,0
+control,2020-07-10,12,ANE-LX1,6,1
+control,2020-07-07,8,Samsung SM-G955F,6,1
+exposed,2020-07-08,15,SNE-LX1,6,0
+control,2020-07-09,19,Samsung SM-N976B,6,0
+control,2020-07-10,6,Samsung SM-G973F,6,1
+exposed,2020-07-04,2,Generic Smartphone,6,0
+exposed,2020-07-06,7,Samsung SM-G960F,6,0
+control,2020-07-07,10,Generic Smartphone,6,1
+exposed,2020-07-04,16,Samsung SM-G935F,6,0
+control,2020-07-08,21,LG-$2,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-09,12,Samsung SM-A105FN,6,0
+exposed,2020-07-05,12,Generic Smartphone,6,0
+control,2020-07-10,2,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-03,10,Samsung SM-J600FN,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-08,2,Generic Smartphone,6,0
+exposed,2020-07-07,2,Generic Smartphone,6,0
+exposed,2020-07-09,8,Generic Smartphone,6,0
+exposed,2020-07-07,17,Samsung SM-G980F,6,0
+control,2020-07-03,15,ANE-LX1,6,1
+exposed,2020-07-04,8,Generic Smartphone,6,0
+exposed,2020-07-08,16,Generic Smartphone,6,0
+control,2020-07-10,4,Generic Smartphone,6,1
+control,2020-07-09,4,Nokia undefined$2$3,6,0
+exposed,2020-07-09,10,Samsung SM-G935F,6,0
+control,2020-07-03,15,Samsung SM-G988B,6,1
+exposed,2020-07-05,7,LG-$2,6,0
+control,2020-07-08,21,Samsung SM-A405FN,6,1
+control,2020-07-03,15,Samsung SM-A405FN,6,1
+exposed,2020-07-09,15,Generic Smartphone,6,0
+exposed,2020-07-03,10,Samsung SM-G975F,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,0,Generic Smartphone,6,1
+control,2020-07-09,0,Generic Smartphone,6,0
+exposed,2020-07-09,0,Generic Smartphone,6,0
+exposed,2020-07-10,11,Generic Smartphone,6,0
+exposed,2020-07-08,16,Generic Smartphone,6,1
+control,2020-07-10,5,Samsung SM-A202F,6,0
+exposed,2020-07-04,4,Generic Smartphone,6,0
+exposed,2020-07-05,8,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A520F,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,0
+exposed,2020-07-10,3,Generic Smartphone,6,0
+exposed,2020-07-05,12,Huawei Browser,6,1
+control,2020-07-10,8,Samsung SM-A705FN,6,1
+control,2020-07-05,1,Samsung $2,6,0
+control,2020-07-10,15,Generic Smartphone,6,0
+exposed,2020-07-03,7,Generic Smartphone,6,1
+exposed,2020-07-09,8,MRD-LX1,6,0
+control,2020-07-09,7,Samsung SM-J320FN,6,0
+exposed,2020-07-08,18,Samsung SM-G965U1,6,0
+exposed,2020-07-03,8,Generic Smartphone,6,0
+exposed,2020-07-03,6,Samsung SM-A705FN,6,1
+control,2020-07-08,22,Generic Smartphone,6,1
+control,2020-07-07,17,Generic Smartphone,6,1
+exposed,2020-07-03,1,Generic Smartphone,6,1
+exposed,2020-07-04,3,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G960F,6,0
+exposed,2020-07-09,14,Nokia$2$3,6,0
+exposed,2020-07-09,11,Generic Smartphone,6,0
+exposed,2020-07-08,17,Generic Smartphone,6,1
+exposed,2020-07-04,10,Samsung SM-G900F,6,0
+control,2020-07-10,16,Samsung SM-A320FL,6,1
+control,2020-07-03,15,iPhone,5,0
+control,2020-07-03,15,iPhone,5,0
+exposed,2020-07-06,3,Generic Smartphone,6,0
+control,2020-07-08,8,Samsung SM-G973F,6,1
+control,2020-07-04,19,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,16,Generic Smartphone,6,0
+exposed,2020-07-07,19,Samsung SM-G960F,6,1
+exposed,2020-07-03,7,Generic Smartphone,6,0
+exposed,2020-07-09,16,Samsung SM-G980F,6,1
+exposed,2020-07-09,16,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,9,Nokia$2$3,6,1
+exposed,2020-07-07,0,Moto $2,6,0
+exposed,2020-07-06,6,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-06,10,Generic Smartphone,6,1
+exposed,2020-07-06,6,Generic Smartphone,6,1
+exposed,2020-07-03,5,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G970F,6,1
+exposed,2020-07-05,13,Generic Smartphone,6,1
+control,2020-07-07,3,Generic Smartphone,6,0
+control,2020-07-04,13,Generic Smartphone,6,0
+exposed,2020-07-03,9,Generic Smartphone,6,0
+control,2020-07-06,0,VTR-L09,6,0
+exposed,2020-07-05,11,Generic Smartphone,6,1
+exposed,2020-07-09,12,Generic Smartphone,6,0
+control,2020-07-08,14,Generic Smartphone,6,0
+exposed,2020-07-04,23,Generic Smartphone,6,1
+control,2020-07-09,1,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-A320FL,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-03,14,Generic Smartphone,6,0
+control,2020-07-09,10,Samsung SM-G973F,6,0
+exposed,2020-07-05,8,Samsung SM-G960F,6,0
+exposed,2020-07-07,18,Generic Smartphone,6,0
+exposed,2020-07-08,14,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-05,11,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-09,7,Generic Smartphone,6,1
+exposed,2020-07-08,21,LG-$2,6,1
+exposed,2020-07-05,15,Samsung SM-A105FN,6,0
+exposed,2020-07-09,17,Generic Smartphone,6,0
+control,2020-07-10,14,Generic Smartphone,6,0
+exposed,2020-07-08,7,Samsung SM-N960F,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,1
+control,2020-07-08,19,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-08,15,Generic Smartphone,6,0
+exposed,2020-07-07,9,Generic Smartphone,6,1
+exposed,2020-07-07,22,Generic Smartphone,6,1
+exposed,2020-07-07,3,Samsung SM-G973F,6,0
+control,2020-07-03,15,Samsung SM-G973F,6,1
+control,2020-07-09,9,Generic Smartphone,6,0
+control,2020-07-08,16,Samsung SM-A405FN,6,1
+control,2020-07-04,3,Generic Smartphone,6,0
+exposed,2020-07-08,18,Generic Smartphone,6,0
+exposed,2020-07-03,11,Generic Smartphone,6,0
+exposed,2020-07-08,22,Samsung SM-G960F,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-03,10,Generic Smartphone,6,1
+exposed,2020-07-10,4,Samsung SM-G930F,6,1
+exposed,2020-07-05,8,Samsung SM-G960F,6,0
+exposed,2020-07-04,16,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G930F,6,1
+exposed,2020-07-03,8,Generic Smartphone,6,1
+exposed,2020-07-05,11,Samsung SM-A320FL,6,0
+exposed,2020-07-04,6,Generic Smartphone,6,1
+exposed,2020-07-08,15,Generic Smartphone,6,0
+exposed,2020-07-05,6,Generic Smartphone,6,0
+exposed,2020-07-04,14,CLT-L09,6,0
+exposed,2020-07-04,10,Generic Smartphone,6,1
+exposed,2020-07-06,9,Generic Smartphone,6,0
+exposed,2020-07-04,9,Generic Smartphone,6,1
+exposed,2020-07-04,17,Generic Smartphone,6,0
+control,2020-07-04,12,Generic Smartphone,6,0
+exposed,2020-07-10,12,Samsung $2,6,0
+exposed,2020-07-10,16,Generic Smartphone,6,0
+exposed,2020-07-07,14,Generic Smartphone,6,0
+control,2020-07-04,11,Samsung SM-G950F,6,1
+exposed,2020-07-09,12,Generic Smartphone,6,1
+control,2020-07-09,13,Samsung SM-G960F,6,0
+control,2020-07-07,8,Generic Smartphone,6,1
+exposed,2020-07-04,19,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,20,Samsung SM-A705FN,6,0
+control,2020-07-08,14,Samsung SM-A520F,6,0
+control,2020-07-09,10,Samsung SM-G960F,6,1
+exposed,2020-07-09,11,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-03,8,Generic Smartphone,6,1
+exposed,2020-07-03,12,Generic Smartphone,6,0
+control,2020-07-04,3,iPhone,5,1
+control,2020-07-03,15,Samsung $2,6,1
+control,2020-07-08,14,Samsung SM-G960F,6,0
+exposed,2020-07-05,10,Samsung SM-G973F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-04,14,Samsung SM-A600FN,6,1
+exposed,2020-07-05,0,Generic Smartphone,6,0
+control,2020-07-09,12,Generic Smartphone,6,1
+exposed,2020-07-03,10,Generic Smartphone,6,0
+exposed,2020-07-03,11,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,MRD-LX1,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-03,8,Generic Smartphone,6,0
+control,2020-07-06,5,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,4,Samsung SM-A202F,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-05,9,Samsung SM-J530F,6,1
+exposed,2020-07-04,4,Generic Smartphone,6,0
+exposed,2020-07-08,18,Generic Smartphone,6,1
+control,2020-07-04,7,Samsung SM-G970F,6,0
+control,2020-07-10,4,Generic Smartphone,6,0
+exposed,2020-07-06,10,Samsung SM-N950F,6,1
+control,2020-07-03,15,MAR-LX1A,6,0
+exposed,2020-07-08,20,VFD 700,6,1
+exposed,2020-07-10,15,Generic Smartphone,6,0
+exposed,2020-07-03,8,Generic Smartphone,6,0
+control,2020-07-04,8,Samsung SM-G960F,6,1
+control,2020-07-03,15,Samsung SM-A310F,6,1
+control,2020-07-04,15,Samsung SM-G973F,6,1
+control,2020-07-03,15,Samsung SM-G973F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-03,10,Samsung SM-A405FN,6,0
+exposed,2020-07-06,4,Generic Smartphone,6,1
+exposed,2020-07-05,5,Samsung SM-G950F,6,1
+exposed,2020-07-04,11,Nokia undefined$2$3,6,1
+control,2020-07-04,21,Generic Smartphone,6,1
+exposed,2020-07-03,9,Samsung SM-N920I,6,0
+exposed,2020-07-08,5,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-05,18,Samsung SM-G960F,6,1
+control,2020-07-04,11,Generic Smartphone,6,1
+control,2020-07-07,9,Generic Smartphone,6,1
+control,2020-07-08,18,Samsung SM-G977B,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-10,4,Generic Smartphone,6,1
+exposed,2020-07-05,11,Generic Smartphone,6,0
+control,2020-07-09,18,Samsung SM-G970F,6,1
+exposed,2020-07-05,10,Generic Smartphone,6,0
+control,2020-07-04,6,Generic Smartphone,6,0
+control,2020-07-05,4,Samsung SM-G975F,6,1
+control,2020-07-03,15,Samsung SM-G930F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-08,8,Generic Smartphone,6,0
+exposed,2020-07-06,4,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-04,0,XiaoMi MI 8 Pro,6,1
+control,2020-07-04,5,Nokia$2$3,6,0
+control,2020-07-04,2,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-09,16,Samsung SM-N970F,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-06,6,Samsung SM-G981B,6,1
+exposed,2020-07-03,11,Generic Smartphone,6,0
+control,2020-07-08,20,Generic Smartphone,6,0
+exposed,2020-07-04,6,ELE-L09,6,1
+control,2020-07-08,20,ELE-L09,6,0
+control,2020-07-10,17,ELE-L29,6,1
+control,2020-07-07,5,Generic Smartphone,6,0
+control,2020-07-08,13,Samsung SM-G975F,6,0
+control,2020-07-03,15,Samsung SM-G930F,6,0
+exposed,2020-07-06,7,Generic Smartphone,6,0
+exposed,2020-07-10,4,Generic Smartphone,6,1
+exposed,2020-07-03,13,Generic Smartphone,6,1
+exposed,2020-07-04,15,Generic Smartphone,6,0
+exposed,2020-07-09,17,Samsung SM-A507FN,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-04,15,Generic Smartphone,6,0
+exposed,2020-07-09,7,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G950F,6,0
+control,2020-07-05,14,MAR-LX1A,6,1
+exposed,2020-07-06,8,Generic Smartphone,6,0
+exposed,2020-07-06,7,Generic Smartphone,6,0
+control,2020-07-09,22,Generic Smartphone,6,1
+control,2020-07-04,20,Samsung SM-J330FN,6,0
+exposed,2020-07-04,8,Generic Smartphone,6,0
+control,2020-07-10,16,Generic Smartphone,6,0
+control,2020-07-06,8,Samsung SM-A202F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-04,12,Nokia$2$3,6,0
+exposed,2020-07-05,3,iPhone,5,1
+control,2020-07-10,8,Samsung SM-G973F,6,1
+exposed,2020-07-10,15,Samsung SM-G950F,6,0
+control,2020-07-06,10,Generic Smartphone,6,1
+exposed,2020-07-04,3,Nokia undefined$2$3,6,1
+exposed,2020-07-10,2,Generic Smartphone,6,0
+control,2020-07-09,2,Generic Smartphone,6,0
+exposed,2020-07-07,22,Generic Smartphone,6,1
+exposed,2020-07-03,7,Generic Smartphone,6,1
+exposed,2020-07-05,7,Samsung SM-G975F,6,1
+exposed,2020-07-08,19,Generic Smartphone,6,0
+exposed,2020-07-09,19,Samsung SM-A105FN,6,0
+exposed,2020-07-08,21,Samsung SM-G950F,6,0
+exposed,2020-07-03,0,Generic Smartphone,6,1
+exposed,2020-07-09,17,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-J600FN,6,0
+exposed,2020-07-03,3,Samsung SM-G975F,6,1
+exposed,2020-07-09,21,Samsung SM-G975F,6,0
+control,2020-07-06,1,MAR-LX1A,6,0
+exposed,2020-07-03,13,Samsung SM-A750FN,6,1
+control,2020-07-04,5,Generic Smartphone,6,1
+control,2020-07-07,13,Generic Smartphone,6,0
+exposed,2020-07-05,7,Generic Smartphone,6,0
+exposed,2020-07-05,13,Samsung SM-G950F,6,0
+control,2020-07-05,5,CLT-L09,6,0
+exposed,2020-07-08,12,Generic Smartphone,6,1
+control,2020-07-09,17,Generic Smartphone,6,1
+exposed,2020-07-06,8,Samsung SM-G950F,6,0
+control,2020-07-04,9,Generic Smartphone,6,0
+control,2020-07-08,18,Generic Smartphone,6,0
+control,2020-07-08,17,Generic Smartphone,6,1
+exposed,2020-07-10,13,Samsung SM-A300FU,6,0
+exposed,2020-07-07,14,Samsung SM-G960F,6,0
+exposed,2020-07-09,18,Generic Smartphone,6,0
+exposed,2020-07-06,5,Samsung SM-A505FN,6,0
+control,2020-07-05,21,Generic Smartphone,6,0
+control,2020-07-08,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-07,9,Generic Smartphone,6,1
+exposed,2020-07-03,9,Generic Smartphone,6,0
+control,2020-07-07,0,Generic Smartphone,6,0
+exposed,2020-07-09,11,POT-LX1,6,0
+exposed,2020-07-08,22,Samsung SM-G980F,6,0
+control,2020-07-10,15,Samsung SM-A105FN,6,1
+control,2020-07-03,15,Samsung SM-A515F,6,0
+control,2020-07-05,15,Generic Smartphone,6,1
+exposed,2020-07-08,13,Generic Smartphone,6,0
+exposed,2020-07-04,6,PRA-LX1,6,0
+control,2020-07-10,7,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-04,10,Samsung SM-G965F,6,1
+exposed,2020-07-09,14,Generic Smartphone,6,0
+control,2020-07-08,19,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,6,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-08,18,Samsung SM-A202F,6,1
+exposed,2020-07-06,2,Generic Smartphone,6,1
+exposed,2020-07-10,14,Generic Smartphone,6,1
+exposed,2020-07-03,8,Samsung SM-G920F,6,1
+exposed,2020-07-09,10,Generic Smartphone,6,0
+exposed,2020-07-08,16,Generic Smartphone,6,1
+exposed,2020-07-08,3,Generic Smartphone,6,0
+exposed,2020-07-08,5,iPhone,5,0
+exposed,2020-07-09,12,Generic Smartphone,6,0
+control,2020-07-04,6,Samsung SM-G960F,6,1
+control,2020-07-06,9,Generic Smartphone,6,0
+control,2020-07-10,0,Samsung SM-G950F,6,0
+control,2020-07-09,20,Generic Smartphone,6,1
+exposed,2020-07-10,7,Generic Smartphone,6,0
+exposed,2020-07-10,7,HTC Desire $2,6,1
+control,2020-07-08,16,Samsung SM-G930F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-05,16,Generic Smartphone,6,1
+exposed,2020-07-10,15,Generic Smartphone,6,1
+exposed,2020-07-06,10,I3312,6,1
+exposed,2020-07-10,1,Generic Smartphone,6,0
+exposed,2020-07-03,9,A0001,6,1
+exposed,2020-07-10,14,Samsung SM-N960F,6,0
+exposed,2020-07-04,14,Generic Smartphone,6,0
+exposed,2020-07-09,18,Samsung SM-J330FN,6,1
+exposed,2020-07-04,14,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A320FL,6,0
+control,2020-07-03,15,Samsung SM-N950F,6,0
+exposed,2020-07-09,5,Generic Smartphone,6,0
+exposed,2020-07-10,1,Generic Smartphone,6,0
+control,2020-07-05,7,Generic Smartphone,6,1
+exposed,2020-07-05,7,Generic Smartphone,6,0
+control,2020-07-08,15,Samsung SM-A405FN,6,0
+exposed,2020-07-08,18,Generic Smartphone,6,0
+exposed,2020-07-04,10,LG-$2,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,1
+exposed,2020-07-04,10,Generic Smartphone,6,0
+exposed,2020-07-08,22,Generic Smartphone,6,1
+exposed,2020-07-04,9,Samsung SM-A505FN,6,0
+exposed,2020-07-07,9,Samsung SM-G900F,6,0
+control,2020-07-09,21,Generic Smartphone,6,1
+exposed,2020-07-07,4,Generic Smartphone,6,0
+exposed,2020-07-08,15,MRD-LX1,6,1
+control,2020-07-09,13,Samsung SM-G986B,6,0
+control,2020-07-03,15,Samsung SM-A505FN,6,1
+exposed,2020-07-03,5,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G973F,6,0
+exposed,2020-07-03,10,EVR-N29,6,0
+exposed,2020-07-06,5,Generic Smartphone,6,0
+exposed,2020-07-05,10,I3312,6,0
+control,2020-07-04,11,Generic Smartphone,6,0
+exposed,2020-07-09,15,Generic Smartphone,6,1
+exposed,2020-07-10,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-06,1,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-05,4,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-08,5,Generic Smartphone,6,1
+exposed,2020-07-08,14,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G960F,6,0
+exposed,2020-07-03,9,Samsung SM-A202F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-07,10,LYA-L09,6,0
+exposed,2020-07-08,12,Samsung SM-G610F,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-07,14,Generic Smartphone,6,1
+exposed,2020-07-09,1,Generic Smartphone,6,0
+exposed,2020-07-06,4,Generic Smartphone,6,0
+exposed,2020-07-04,10,ANE-LX1,6,0
+exposed,2020-07-10,1,Samsung SM-A920F,6,0
+control,2020-07-07,4,Generic Smartphone,6,0
+exposed,2020-07-07,12,Generic Smartphone,6,1
+control,2020-07-08,20,Generic Smartphone,6,0
+control,2020-07-09,4,Generic Smartphone,6,1
+control,2020-07-04,4,Generic Smartphone,6,0
+exposed,2020-07-10,0,Generic Smartphone,6,1
+control,2020-07-10,14,iPhone,5,0
+exposed,2020-07-10,12,Generic Smartphone,6,0
+exposed,2020-07-08,7,Samsung SM-A405FN,6,0
+control,2020-07-09,14,Generic Smartphone,6,1
+control,2020-07-10,15,Samsung SM-G960F,6,1
+control,2020-07-09,12,Samsung SM-G950F,6,1
+control,2020-07-05,7,Samsung SM-G977B,6,1
+control,2020-07-10,7,Generic Smartphone,6,0
+control,2020-07-04,12,iPhone,5,0
+exposed,2020-07-07,21,Generic Smartphone,6,0
+exposed,2020-07-07,17,Samsung SM-A515F,6,0
+control,2020-07-03,15,Samsung SM-G980F,6,0
+exposed,2020-07-08,19,Generic Smartphone,6,0
+exposed,2020-07-07,21,Samsung SM-A105FN,6,1
+control,2020-07-03,15,MAR-LX1A,6,0
+exposed,2020-07-04,6,Generic Smartphone,6,0
+exposed,2020-07-04,11,Samsung SM-G950F,6,1
+exposed,2020-07-04,11,Generic Smartphone,6,0
+control,2020-07-04,22,LG-$2,6,1
+control,2020-07-09,1,Samsung SM-J415FN,6,1
+exposed,2020-07-09,16,Samsung SM-G965F,6,0
+exposed,2020-07-04,14,Samsung SM-J610FN,6,1
+exposed,2020-07-08,18,Nokia undefined$2$3,6,1
+exposed,2020-07-07,20,Generic Smartphone,6,1
+control,2020-07-05,2,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-05,4,Generic Smartphone,6,0
+exposed,2020-07-04,19,Generic Smartphone,6,1
+control,2020-07-04,17,Generic Smartphone,6,1
+control,2020-07-10,8,Samsung SM-G930F,6,1
+exposed,2020-07-10,7,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G960F,6,0
+control,2020-07-06,1,iPhone,5,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-10,2,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-09,1,Generic Smartphone,6,0
+control,2020-07-09,1,IMO $2,6,1
+exposed,2020-07-07,5,Generic Smartphone,6,0
+exposed,2020-07-08,17,Samsung SM-G900F,6,1
+exposed,2020-07-09,3,Generic Smartphone,6,0
+exposed,2020-07-07,14,Samsung SM-A320FL,6,0
+exposed,2020-07-08,18,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G960F,6,0
+exposed,2020-07-08,20,Generic Smartphone,6,1
+control,2020-07-06,4,Generic Smartphone,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,0
+control,2020-07-05,21,Generic Smartphone,6,1
+exposed,2020-07-04,15,Generic Smartphone,6,0
+control,2020-07-10,3,VFD 820,6,0
+control,2020-07-06,10,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-04,14,Samsung SM-G965F,6,1
+control,2020-07-07,6,Generic Smartphone,6,1
+exposed,2020-07-08,19,Samsung SM-G960F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-08,22,Generic Smartphone,6,0
+exposed,2020-07-07,6,Samsung SM-A505FN,6,0
+exposed,2020-07-09,20,CLT-L09,6,0
+exposed,2020-07-04,11,Generic Smartphone,6,1
+exposed,2020-07-09,23,Generic Smartphone,6,1
+control,2020-07-06,7,Generic Smartphone,6,0
+exposed,2020-07-05,14,Generic Smartphone,6,1
+control,2020-07-04,11,Samsung SM-A530F,6,1
+control,2020-07-04,17,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G960F,6,0
+exposed,2020-07-06,6,Generic Smartphone,6,1
+control,2020-07-08,18,Generic Smartphone,6,0
+exposed,2020-07-08,18,Samsung SM-G950F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,LG-$2,6,0
+exposed,2020-07-03,5,XiaoMi MI MAX 3,6,1
+exposed,2020-07-08,18,Samsung SM-G950F,6,1
+control,2020-07-10,9,Generic Smartphone,6,1
+exposed,2020-07-09,7,Samsung SM-G960F,6,1
+exposed,2020-07-08,19,Generic Smartphone,6,1
+control,2020-07-06,7,Nokia$2$3,6,1
+control,2020-07-05,12,Generic Smartphone,6,0
+exposed,2020-07-07,1,Samsung SM-G960F,6,0
+exposed,2020-07-10,3,Generic Smartphone,6,1
+exposed,2020-07-04,19,Samsung SM-G935F,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-07,19,Generic Smartphone,6,1
+exposed,2020-07-05,7,Pixel 4,6,0
+exposed,2020-07-04,5,Generic Smartphone,6,1
+control,2020-07-09,11,Samsung SM-J600FN,6,0
+control,2020-07-10,15,Samsung $2,6,1
+exposed,2020-07-07,11,Generic Smartphone,6,0
+exposed,2020-07-10,4,I3312,6,0
+control,2020-07-09,5,Samsung SM-G960F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-04,8,Generic Smartphone,6,1
+exposed,2020-07-04,13,F3311,6,1
+control,2020-07-03,15,Samsung SM-G960F,6,1
+control,2020-07-03,15,Samsung SM-A405FN,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-08,4,Generic Smartphone,6,1
+control,2020-07-09,9,iPhone,5,1
+control,2020-07-03,15,Samsung SM-G930F,6,0
+exposed,2020-07-03,11,Generic Smartphone,6,1
+exposed,2020-07-09,18,Generic Smartphone,6,0
+control,2020-07-10,11,Generic Smartphone,6,0
+exposed,2020-07-10,4,Generic Smartphone,6,1
+exposed,2020-07-03,12,Generic Smartphone,6,0
+exposed,2020-07-09,17,Samsung SM-G965F,6,1
+control,2020-07-10,5,Pixel 3,6,1
+exposed,2020-07-05,7,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-10,7,Samsung SM-G950F,6,0
+exposed,2020-07-09,22,Samsung SM-A600FN,6,1
+control,2020-07-07,21,Generic Smartphone,6,0
+control,2020-07-05,5,Generic Smartphone,6,1
+exposed,2020-07-05,14,Generic Smartphone,6,1
+exposed,2020-07-10,0,Samsung SM-G975F,6,1
+control,2020-07-03,15,iPhone,5,0
+exposed,2020-07-08,16,Generic Smartphone,6,1
+exposed,2020-07-08,21,Samsung SM-G950F,6,1
+exposed,2020-07-03,14,Samsung SM-G935F,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,1
+exposed,2020-07-09,6,Generic Smartphone,6,0
+control,2020-07-08,17,Generic Smartphone,6,0
+exposed,2020-07-04,12,Samsung SM-A300FU,6,0
+control,2020-07-09,9,Samsung SM-A105FN,6,1
+control,2020-07-08,19,Samsung SM-A105FN,6,1
+exposed,2020-07-09,12,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-07,9,Generic Smartphone,6,0
+exposed,2020-07-08,17,Generic Smartphone,6,0
+exposed,2020-07-09,11,Generic Smartphone,6,1
+exposed,2020-07-04,13,Generic Smartphone,6,0
+control,2020-07-07,21,Generic Smartphone,6,1
+control,2020-07-10,12,LG-$2,6,1
+exposed,2020-07-08,21,Generic Smartphone,6,0
+exposed,2020-07-10,5,Generic Smartphone,6,0
+exposed,2020-07-08,17,Generic Smartphone,6,0
+control,2020-07-05,16,Samsung SM-G955F,6,1
+exposed,2020-07-08,16,Generic Smartphone,6,1
+exposed,2020-07-08,5,Pixel 2,6,0
+control,2020-07-03,15,Samsung SM-A405FN,6,1
+exposed,2020-07-08,7,Generic Smartphone,6,1
+control,2020-07-10,13,Generic Smartphone,6,0
+exposed,2020-07-04,12,Generic Smartphone,6,0
+exposed,2020-07-07,6,Generic Smartphone,6,1
+exposed,2020-07-05,5,Generic Smartphone,6,1
+exposed,2020-07-03,3,Samsung SM-G960F,6,0
+exposed,2020-07-06,10,Samsung SM-G950F,6,0
+control,2020-07-03,15,EML-L09,6,0
+exposed,2020-07-04,7,OnePlus ONEPLUS A5010,6,1
+exposed,2020-07-04,6,Samsung SM-G950F,6,0
+control,2020-07-03,15,Samsung SM-G770F,6,0
+exposed,2020-07-09,17,Samsung SM-A405FN,6,0
+control,2020-07-06,4,Generic Smartphone,6,0
+exposed,2020-07-03,2,Generic Smartphone,6,1
+control,2020-07-09,11,Samsung SM-A202F,6,1
+exposed,2020-07-08,15,Generic Smartphone,6,1
+control,2020-07-08,22,Samsung SM-G973F,6,0
+exposed,2020-07-03,11,Samsung SM-A505FN,6,0
+exposed,2020-07-04,13,Generic Smartphone,6,1
+exposed,2020-07-07,12,Generic Smartphone,6,0
+exposed,2020-07-03,2,Generic Smartphone,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,21,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-09,3,Generic Smartphone,6,1
+exposed,2020-07-03,7,TA-1033,6,1
+control,2020-07-06,0,Pixel 3,6,1
+control,2020-07-03,15,Samsung SM-G965F,6,0
+exposed,2020-07-08,20,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-A105FN,6,1
+control,2020-07-07,8,Samsung SM-J330FN,6,0
+control,2020-07-09,18,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-08,14,Samsung SM-A202F,6,0
+exposed,2020-07-03,13,Generic Smartphone,6,1
+exposed,2020-07-08,19,Generic Smartphone,6,0
+control,2020-07-07,14,Generic Smartphone,6,0
+exposed,2020-07-05,12,Samsung SM-G960F,6,1
+exposed,2020-07-10,6,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,13,Pixel 3a,6,1
+control,2020-07-04,9,Samsung SM-G935F,6,0
+exposed,2020-07-05,18,Generic Smartphone,6,1
+exposed,2020-07-07,2,Samsung SM-G973F,6,0
+control,2020-07-10,0,Samsung SM-G960F,6,0
+exposed,2020-07-08,14,Samsung SM-G960F,6,1
+exposed,2020-07-09,10,Generic Smartphone,6,0
+exposed,2020-07-08,18,Samsung SM-J600FN,6,0
+exposed,2020-07-08,0,Generic Smartphone,6,0
+control,2020-07-08,13,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-07,1,Samsung SM-N976B,6,1
+exposed,2020-07-03,12,Samsung SM-A505FN,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-04,11,LG-$2,6,1
+exposed,2020-07-10,2,Generic Smartphone,6,1
+exposed,2020-07-08,15,Pixel 4,6,0
+exposed,2020-07-10,0,Generic Smartphone,6,0
+control,2020-07-07,13,Generic Smartphone,6,1
+control,2020-07-09,0,Samsung SM-A505FN,6,1
+control,2020-07-09,12,Generic Smartphone,6,0
+exposed,2020-07-04,17,Generic Smartphone,6,0
+exposed,2020-07-03,6,Generic Smartphone,6,1
+control,2020-07-08,11,Samsung SM-N950F,6,0
+exposed,2020-07-04,6,Samsung $2,6,0
+exposed,2020-07-05,4,Generic Smartphone,6,0
+exposed,2020-07-08,5,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A405FN,6,0
+control,2020-07-05,3,Generic Smartphone,6,1
+exposed,2020-07-10,0,Samsung SM-A202F,6,1
+exposed,2020-07-08,16,Generic Smartphone,6,1
+exposed,2020-07-09,8,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G988B,6,0
+exposed,2020-07-05,15,Generic Smartphone,6,1
+exposed,2020-07-06,9,Generic Smartphone,6,1
+control,2020-07-09,6,Generic Smartphone,6,0
+exposed,2020-07-04,17,Samsung SM-G975F,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-04,1,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G920F,6,0
+exposed,2020-07-08,19,Generic Smartphone,6,1
+control,2020-07-04,20,Generic Smartphone,6,1
+exposed,2020-07-09,13,Generic Smartphone,6,0
+exposed,2020-07-08,22,Generic Smartphone,6,0
+exposed,2020-07-09,9,Generic Smartphone,6,0
+exposed,2020-07-10,15,Generic Smartphone,6,0
+exposed,2020-07-08,16,Samsung SM-A202F,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-06,4,Generic Smartphone,6,1
+exposed,2020-07-04,6,Samsung SM-G965F,6,1
+control,2020-07-09,9,Samsung SM-A202F,6,1
+exposed,2020-07-07,10,Generic Smartphone,6,1
+control,2020-07-04,11,Generic Smartphone,6,1
+exposed,2020-07-09,20,Generic Smartphone,6,1
+exposed,2020-07-03,12,OnePlus ONEPLUS A6013,6,1
+exposed,2020-07-04,2,ANE-LX1,6,1
+exposed,2020-07-08,20,Generic Smartphone,6,1
+exposed,2020-07-03,10,Samsung SM-G970F,6,1
+control,2020-07-04,10,DLI-L22,6,0
+exposed,2020-07-03,8,Samsung SM-G770F,6,1
+control,2020-07-04,12,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-04,7,Generic Smartphone,6,1
+control,2020-07-08,19,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A705FN,6,1
+control,2020-07-07,19,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-A105FN,6,0
+control,2020-07-09,17,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,9,Generic Smartphone,6,1
+control,2020-07-03,15,iPhone,5,0
+exposed,2020-07-04,8,Samsung SM-J530F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-10,3,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-08,16,Generic Smartphone,6,1
+exposed,2020-07-03,3,Generic Smartphone,6,0
+control,2020-07-09,5,Samsung SM-G960F,6,1
+exposed,2020-07-07,13,Generic Smartphone,6,1
+exposed,2020-07-09,9,Moto $2,6,0
+exposed,2020-07-10,9,Generic Smartphone,6,1
+exposed,2020-07-08,20,Samsung SM-J320FN,6,1
+exposed,2020-07-10,3,Generic Smartphone,6,0
+control,2020-07-05,12,Samsung SM-G986B,6,0
+control,2020-07-07,10,Samsung SM-G930F,6,1
+control,2020-07-05,18,Generic Smartphone,6,0
+exposed,2020-07-05,12,Generic Smartphone,6,1
+exposed,2020-07-08,22,Generic Smartphone,6,0
+control,2020-07-09,8,Generic Smartphone,6,0
+control,2020-07-05,10,Samsung SM-G960F,6,0
+control,2020-07-04,13,Samsung SM-A530F,6,0
+control,2020-07-05,4,Generic Smartphone,6,0
+control,2020-07-08,5,Generic Smartphone,6,0
+exposed,2020-07-03,7,Generic Smartphone,6,1
+control,2020-07-06,10,Generic Smartphone,6,1
+control,2020-07-08,21,Generic Smartphone,6,1
+control,2020-07-04,11,iPhone,5,0
+control,2020-07-09,19,Samsung SM-G960F,6,1
+exposed,2020-07-07,9,Generic Smartphone,6,1
+exposed,2020-07-09,21,Samsung SM-G960F,6,1
+control,2020-07-10,1,POT-LX1,6,1
+control,2020-07-04,13,Generic Smartphone,6,0
+exposed,2020-07-08,16,Samsung SM-G965F,6,1
+exposed,2020-07-03,9,Generic Smartphone,6,0
+exposed,2020-07-06,6,Generic Smartphone,6,1
+exposed,2020-07-06,5,Samsung SM-J330FN,6,0
+control,2020-07-09,19,Generic Smartphone,6,0
+control,2020-07-07,5,Nokia undefined$2$3,6,0
+control,2020-07-05,8,Samsung SM-G935F,6,0
+exposed,2020-07-10,6,Generic Smartphone,6,0
+exposed,2020-07-03,13,Generic Smartphone,6,1
+exposed,2020-07-04,3,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G930F,6,1
+exposed,2020-07-10,9,Samsung SM-G960F,6,0
+control,2020-07-03,15,Samsung SM-G975F,6,0
+control,2020-07-08,20,Generic Smartphone,6,1
+control,2020-07-08,23,VOG-L29,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-10,11,Generic Smartphone,6,0
+exposed,2020-07-04,20,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-08,3,Samsung SM-A520F,6,0
+control,2020-07-10,6,Samsung SM-G950F,6,0
+control,2020-07-08,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-05,9,Generic Smartphone,6,1
+exposed,2020-07-10,10,Nokia undefined$2$3,6,0
+exposed,2020-07-09,0,HTC One $2,6,1
+exposed,2020-07-09,21,Generic Smartphone,6,0
+control,2020-07-05,17,Generic Smartphone,6,0
+exposed,2020-07-06,7,Samsung SM-G950F,6,1
+exposed,2020-07-04,7,Generic Smartphone,6,0
+exposed,2020-07-09,0,Samsung SM-A310F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-09,12,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-A530F,6,1
+exposed,2020-07-05,6,Generic Smartphone,6,1
+exposed,2020-07-09,18,Generic Smartphone,6,1
+exposed,2020-07-03,0,Generic Smartphone,6,1
+exposed,2020-07-09,20,Generic Smartphone,6,1
+exposed,2020-07-08,20,Samsung SM-A505FN,6,1
+control,2020-07-05,16,Generic Smartphone,6,1
+control,2020-07-04,9,Generic Smartphone,6,1
+exposed,2020-07-08,15,PRA-LX1,6,0
+exposed,2020-07-04,10,Generic Smartphone,6,0
+control,2020-07-07,9,Generic Smartphone,6,1
+control,2020-07-09,4,Generic Smartphone,6,0
+control,2020-07-06,9,Samsung SM-A705FN,6,0
+control,2020-07-03,15,Samsung SM-G960F,6,0
+control,2020-07-03,15,Samsung SM-A405FN,6,0
+control,2020-07-03,15,Samsung SM-J810F,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-03,14,Generic Smartphone,6,1
+exposed,2020-07-06,4,Samsung SM-G920F,6,1
+exposed,2020-07-03,13,OnePlus ONEPLUS A3000,6,1
+control,2020-07-07,10,Generic Smartphone,6,0
+exposed,2020-07-06,10,Generic Smartphone,6,0
+exposed,2020-07-04,7,FIG-LX1,6,1
+exposed,2020-07-08,16,Generic Smartphone,6,0
+exposed,2020-07-09,11,Generic Smartphone,6,0
+exposed,2020-07-09,22,Generic Smartphone,6,0
+exposed,2020-07-05,18,Samsung SM-J530F,6,1
+control,2020-07-05,1,Samsung SM-G950F,6,0
+control,2020-07-04,9,Samsung SM-J530F,6,0
+control,2020-07-03,15,Samsung SM-A320FL,6,0
+exposed,2020-07-09,2,iPhone,5,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-07,21,Pixel 3,6,1
+exposed,2020-07-03,1,Samsung SM-A530F,6,1
+exposed,2020-07-06,3,Generic Smartphone,6,1
+exposed,2020-07-05,14,Samsung SM-A202F,6,1
+control,2020-07-03,15,Samsung SM-G935F,6,1
+control,2020-07-09,16,Generic Smartphone,6,1
+control,2020-07-04,20,Generic Smartphone,6,0
+exposed,2020-07-07,7,Generic Smartphone,6,1
+control,2020-07-04,15,Samsung SM-G950F,6,0
+exposed,2020-07-07,8,Generic Smartphone,6,0
+exposed,2020-07-07,13,Samsung SM-A600FN,6,1
+exposed,2020-07-04,11,Samsung SM-A600FN,6,0
+control,2020-07-03,15,XiaoMi MI 6,6,0
+control,2020-07-04,12,ANE-LX1,6,0
+exposed,2020-07-08,18,Generic Smartphone,6,1
+exposed,2020-07-03,8,Generic Smartphone,6,1
+control,2020-07-08,10,Generic Smartphone,6,1
+control,2020-07-09,20,Samsung SM-G973F,6,0
+exposed,2020-07-04,20,Generic Smartphone,6,1
+exposed,2020-07-06,9,Generic Smartphone,6,1
+exposed,2020-07-10,4,Samsung SM-A300FU,6,0
+control,2020-07-04,11,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-04,4,Generic Smartphone,6,1
+exposed,2020-07-09,17,Samsung SM-G925F,6,0
+control,2020-07-08,21,EVA-L09,6,1
+control,2020-07-07,7,Nokia undefined$2$3,6,0
+control,2020-07-04,20,X4_Soul_Infinity_Z,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+exposed,2020-07-09,18,Generic Smartphone,6,0
+control,2020-07-09,5,iPhone,5,1
+control,2020-07-03,15,Samsung SM-A530F,6,0
+exposed,2020-07-03,7,Samsung SM-G920F,6,0
+control,2020-07-08,21,Generic Smartphone,6,1
+control,2020-07-04,16,Generic Smartphone,6,1
+control,2020-07-10,5,Generic Smartphone,6,0
+exposed,2020-07-05,14,LG-$2,6,1
+exposed,2020-07-09,10,Samsung SM-G955F,6,1
+control,2020-07-08,21,Generic Smartphone,6,1
+control,2020-07-10,6,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G986B,6,1
+control,2020-07-05,5,Generic Smartphone,6,0
+exposed,2020-07-04,18,Generic Smartphone,6,1
+exposed,2020-07-08,7,Samsung SM-N976B,6,1
+exposed,2020-07-08,15,Samsung SM-A202F,6,0
+exposed,2020-07-08,13,Samsung SM-A202F,6,0
+exposed,2020-07-08,19,Generic Smartphone,6,0
+control,2020-07-08,19,Samsung SM-G960F,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A202F,6,0
+control,2020-07-09,9,PCT-L29,6,1
+exposed,2020-07-05,8,Generic Smartphone,6,0
+exposed,2020-07-08,18,LYA-L09,6,0
+control,2020-07-07,7,Generic Smartphone,6,1
+control,2020-07-04,11,Samsung SM-G970F,6,1
+control,2020-07-04,14,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,8,Samsung SM-G970F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-08,7,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,23,Generic Smartphone,6,1
+exposed,2020-07-03,10,Samsung SM-J500FN,6,1
+exposed,2020-07-09,20,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-10,3,Samsung SM-J330F,6,0
+control,2020-07-09,14,Samsung SM-G973F,6,0
+exposed,2020-07-05,19,Samsung SM-A505FN,6,1
+exposed,2020-07-10,5,Samsung SM-G965F,6,1
+exposed,2020-07-04,15,Generic Smartphone,6,0
+exposed,2020-07-06,5,Generic Smartphone,6,0
+exposed,2020-07-06,7,OnePlus ONEPLUS A6013,6,0
+exposed,2020-07-04,12,Samsung SM-G960F,6,0
+exposed,2020-07-09,6,Generic Smartphone,6,0
+exposed,2020-07-10,8,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-06,6,Generic Smartphone,6,0
+control,2020-07-09,21,Generic Smartphone,6,0
+exposed,2020-07-03,11,Generic Smartphone,6,0
+control,2020-07-07,9,Samsung SM-G935F,6,1
+control,2020-07-05,5,Generic Smartphone,6,0
+exposed,2020-07-08,8,Samsung SM-A750GN,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-03,7,Generic Smartphone,6,1
+control,2020-07-10,14,VFD 720,6,0
+exposed,2020-07-06,8,Pixel 3a,6,1
+control,2020-07-06,8,Generic Smartphone,6,1
+exposed,2020-07-03,1,Generic Smartphone,6,0
+exposed,2020-07-06,9,Samsung SM-G975F,6,0
+control,2020-07-06,1,Samsung SM-J600FN,6,0
+exposed,2020-07-05,3,Samsung SM-G950F,6,0
+control,2020-07-04,11,iPhone,5,1
+exposed,2020-07-05,9,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-G981B,6,1
+exposed,2020-07-03,13,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-06,2,Nokia undefined$2$3,6,1
+control,2020-07-03,15,Samsung SM-G965F,6,1
+control,2020-07-08,14,Generic Smartphone,6,0
+exposed,2020-07-10,4,Samsung SM-N960F,6,1
+exposed,2020-07-05,3,Generic Smartphone,6,1
+control,2020-07-03,15,MAR-LX1A,6,1
+exposed,2020-07-09,21,Generic Smartphone,6,1
+exposed,2020-07-10,4,Generic Smartphone,6,1
+exposed,2020-07-03,12,Generic Smartphone,6,0
+exposed,2020-07-04,8,Generic Smartphone,6,0
+control,2020-07-07,7,Samsung SM-A405FN,6,0
+exposed,2020-07-03,4,Generic Smartphone,6,0
+control,2020-07-08,21,Generic Smartphone,6,1
+exposed,2020-07-07,22,Generic Smartphone,6,0
+exposed,2020-07-09,17,Generic Smartphone,6,1
+exposed,2020-07-09,8,Pixel 2,6,0
+control,2020-07-03,15,Samsung SM-J330FN,6,1
+exposed,2020-07-09,9,Generic Smartphone,6,1
+exposed,2020-07-09,3,Samsung SM-J610G,6,0
+control,2020-07-03,15,G3311,6,1
+control,2020-07-08,15,FIG-LX1,6,1
+exposed,2020-07-07,13,Samsung SM-A202F,6,1
+exposed,2020-07-06,5,VTR-L09,6,0
+control,2020-07-09,20,POT-LX1,6,0
+exposed,2020-07-04,13,VCE-L22,6,1
+exposed,2020-07-09,21,Generic Smartphone,6,1
+control,2020-07-03,15,Pixel 2,6,1
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-04,2,Samsung SM-G973F,6,1
+control,2020-07-03,15,Samsung SM-G930F,6,1
+exposed,2020-07-04,6,Generic Smartphone,6,0
+exposed,2020-07-03,7,Generic Smartphone,6,0
+exposed,2020-07-07,20,Samsung SM-G970F,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,8,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-J330FN,6,0
+exposed,2020-07-09,13,Generic Smartphone,6,1
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-08,15,Generic Smartphone,6,0
+control,2020-07-08,20,Generic Smartphone,6,0
+control,2020-07-03,15,Samsung SM-A520F,6,0
+exposed,2020-07-10,3,Generic Smartphone,6,0
+exposed,2020-07-08,4,Samsung SM-J530F,6,1
+exposed,2020-07-03,9,Generic Smartphone,6,0
+control,2020-07-05,19,Samsung SM-G973F,6,0
+exposed,2020-07-08,14,Generic Smartphone,6,0
+exposed,2020-07-09,17,Samsung SM-G975F,6,1
+exposed,2020-07-04,1,Generic Smartphone,6,1
+control,2020-07-04,7,Samsung SM-G930F,6,0
+exposed,2020-07-03,8,Samsung SM-J530F,6,1
+control,2020-07-03,15,Samsung SM-N970F,6,1
+exposed,2020-07-03,2,Samsung SM-A105FN,6,1
+exposed,2020-07-10,5,Samsung SM-G960F,6,0
+control,2020-07-06,3,Samsung SM-A105FN,6,1
+exposed,2020-07-05,13,Samsung SM-G950F,6,1
+control,2020-07-10,4,Samsung SM-A715F,6,1
+exposed,2020-07-06,4,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-G935F,6,1
+exposed,2020-07-03,5,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-08,9,Samsung SM-N975F,6,0
+exposed,2020-07-03,0,Generic Smartphone,6,0
+control,2020-07-07,17,iPhone,5,0
+control,2020-07-03,15,Generic Smartphone,6,0
+exposed,2020-07-09,14,Generic Smartphone,6,0
+control,2020-07-07,1,Generic Smartphone,6,0
+exposed,2020-07-05,10,Samsung SM-G950F,6,1
+control,2020-07-07,16,Generic Smartphone,6,0
+exposed,2020-07-08,19,Generic Smartphone,6,0
+control,2020-07-06,5,Generic Smartphone,6,1
+exposed,2020-07-10,8,Generic Smartphone,6,0
+exposed,2020-07-10,8,Samsung SM-A300FU,6,0
+exposed,2020-07-05,3,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-04,2,Samsung SM-G930F,6,0
+exposed,2020-07-04,13,VOG-L29,6,1
+exposed,2020-07-10,6,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-09,8,POT-LX1,6,0
+exposed,2020-07-03,11,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-10,10,XiaoMi Redmi S2,6,1
+exposed,2020-07-04,6,Generic Smartphone,6,1
+control,2020-07-03,15,Samsung SM-J330FN,6,1
+control,2020-07-10,12,Samsung SM-A520F,6,0
+control,2020-07-03,15,Generic Smartphone,6,1
+control,2020-07-05,3,Generic Smartphone,6,0
+control,2020-07-03,15,Generic Smartphone,6,0
+control,2020-07-05,4,CLT-L09,6,0
+control,2020-07-03,15,Samsung SM-G975F,6,1
+control,2020-07-04,4,Generic Smartphone,6,0
+exposed,2020-07-08,17,Samsung SM-G965F,6,0
+exposed,2020-07-09,4,Generic Smartphone,6,1
+control,2020-07-10,1,Generic Smartphone,6,1
+exposed,2020-07-09,14,Generic Smartphone,6,1
+exposed,2020-07-10,8,Samsung SM-G973F,6,1
+exposed,2020-07-09,18,Generic Smartphone,6,0
+exposed,2020-07-05,21,Generic Smartphone,6,1
+exposed,2020-07-04,1,Generic Smartphone,6,1
+control,2020-07-09,7,Generic Smartphone,6,0
+control,2020-07-10,16,Generic Smartphone,6,0
+exposed,2020-07-03,4,Generic Smartphone,6,0

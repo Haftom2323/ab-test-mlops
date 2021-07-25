@@ -1,0 +1,1244 @@
+experiment,date,hour,device_make,browser,response
+exposed,2020-07-05,2,E5823,Chrome Mobile WebView,0
+exposed,2020-07-04,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,4,Samsung SM-A202F,Facebook,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,2,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,6,I3312,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,MRD-LX1,Facebook,0
+exposed,2020-07-09,13,Samsung SM-G935F,Facebook,1
+exposed,2020-07-09,20,Moto $2,Chrome Mobile WebView,0
+exposed,2020-07-05,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,2,Samsung SM-J600FN,Chrome Mobile WebView,0
+control,2020-07-04,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-A105FN,Samsung Internet,0
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,20,Samsung SM-G930F,Facebook,1
+exposed,2020-07-04,11,Samsung SM-G981B,Chrome Mobile WebView,1
+exposed,2020-07-05,19,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,2,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-07,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G973F,Facebook,0
+control,2020-07-03,15,ELE-L09,Facebook,1
+exposed,2020-07-09,1,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,18,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,0,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-09,20,Samsung SM-G950F,Samsung Internet,0
+control,2020-07-04,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,22,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-08,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,19,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,6,Samsung SM-G960F,Facebook,0
+exposed,2020-07-07,3,Samsung SM-N960F,Samsung Internet,0
+exposed,2020-07-10,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,19,VOG-L09,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,21,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,10,Samsung SM-G960F,Facebook,1
+exposed,2020-07-04,5,Samsung SM-G960F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,14,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,22,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,8,Samsung SM-A705FN,Facebook,0
+control,2020-07-03,15,Samsung SM-A202F,Chrome Mobile WebView,1
+exposed,2020-07-08,21,Samsung SM-A405FN,Chrome Mobile WebView,1
+control,2020-07-03,15,LG-$2,Chrome Mobile,1
+exposed,2020-07-08,21,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-04,0,Samsung SM-A320FL,Chrome Mobile WebView,1
+exposed,2020-07-05,3,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,2,Samsung SM-G950F,Facebook,0
+control,2020-07-03,15,Samsung SM-G950F,Chrome Mobile WebView,1
+control,2020-07-03,15,ANE-LX1,Facebook,0
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,2,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,0,Samsung SM-A705FN,Samsung Internet,0
+exposed,2020-07-09,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,POT-LX1,Facebook,0
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G973F,Samsung Internet,0
+exposed,2020-07-09,6,Samsung SM-A505FN,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G960F,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,0,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,12,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,14,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-10,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,21,Samsung SM-A705FN,Facebook,0
+control,2020-07-08,22,Samsung SM-G950F,Facebook,1
+exposed,2020-07-03,10,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,3,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,13,Samsung SM-G973F,Samsung Internet,1
+exposed,2020-07-03,8,Samsung SM-A300FU,Chrome Mobile WebView,1
+control,2020-07-10,2,Samsung SM-A520F,Samsung Internet,0
+control,2020-07-10,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G930F,Facebook,1
+exposed,2020-07-08,17,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,9,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-09,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,0,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,17,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-A750FN,Chrome Mobile WebView,1
+exposed,2020-07-04,9,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-J330FN,Samsung Internet,0
+exposed,2020-07-05,11,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-10,5,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,OnePlus ONEPLUS A5000,Facebook,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,STF-L09,Facebook,0
+exposed,2020-07-04,10,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-J330FN,Samsung Internet,1
+exposed,2020-07-09,6,I3312,Chrome Mobile WebView,0
+exposed,2020-07-10,5,Moto $2,Chrome Mobile WebView,0
+exposed,2020-07-09,19,HTC 10,Chrome Mobile,0
+exposed,2020-07-04,16,Samsung SM-J610FN,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,1,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,19,iPhone,Mobile Safari,0
+control,2020-07-07,8,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-10,15,Samsung SM-G900F,Chrome Mobile WebView,1
+exposed,2020-07-03,12,VOG-L29,Facebook,0
+control,2020-07-03,15,XiaoMi Redmi Note 7,Chrome Mobile WebView,0
+exposed,2020-07-05,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,9,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,0,POT-LX1,Chrome Mobile WebView,1
+exposed,2020-07-06,7,Samsung SM-G981B,Facebook,0
+exposed,2020-07-08,17,Generic Smartphone,Chrome Mobile,1
+control,2020-07-06,8,Samsung SM-A520F,Chrome Mobile WebView,0
+control,2020-07-09,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,3,Nokia undefined$2$3,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,16,POT-LX1,Facebook,0
+exposed,2020-07-08,5,ELE-L29,Facebook,0
+control,2020-07-03,15,Huawei Browser,Chrome,0
+control,2020-07-03,15,Samsung SM-A202F,Samsung Internet,0
+exposed,2020-07-07,23,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,17,Samsung SM-G955F,Chrome Mobile WebView,0
+exposed,2020-07-05,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,7,Samsung SM-A920F,Samsung Internet,0
+control,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,22,Samsung SM-A520F,Chrome Mobile WebView,0
+exposed,2020-07-04,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,2,Samsung SM-G950F,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-G950F,Facebook,1
+exposed,2020-07-04,16,Samsung SM-G900F,Chrome Mobile WebView,0
+exposed,2020-07-09,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,20,Samsung SM-A405FN,Chrome Mobile WebView,1
+control,2020-07-05,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,14,Samsung SM-G960F,Chrome Mobile WebView,1
+exposed,2020-07-04,8,Nokia$2$3,Chrome Mobile WebView,1
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,0,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,8,iPhone,Mobile Safari,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,4,Samsung SM-G960F,Facebook,0
+control,2020-07-04,15,Samsung SM-G930F,Samsung Internet,0
+exposed,2020-07-06,1,Samsung SM-A505FN,Chrome Mobile WebView,1
+control,2020-07-04,3,Samsung SM-J530F,Samsung Internet,1
+exposed,2020-07-03,6,Nokia$2$3,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-G975F,Samsung Internet,1
+exposed,2020-07-04,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,VOG-L09,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,15,Generic Smartphone,Facebook,1
+exposed,2020-07-05,13,Samsung SM-G965F,Samsung Internet,1
+exposed,2020-07-03,7,LYA-L09,Chrome Mobile WebView,0
+control,2020-07-10,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,9,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-09,13,Nokia$2$3,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,5,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,2,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G930F,Chrome Mobile WebView,1
+exposed,2020-07-09,22,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,2,Nokia undefined$2$3,Chrome Mobile,0
+exposed,2020-07-08,18,Samsung SM-G950F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,4,MAR-LX1A,Chrome Mobile WebView,0
+control,2020-07-10,7,Samsung SM-G950F,Facebook,0
+control,2020-07-07,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,18,Samsung SM-G920F,Chrome Mobile WebView,1
+control,2020-07-09,15,Samsung SM-A320FL,Samsung Internet,0
+exposed,2020-07-10,2,Nokia$2$3,Chrome Mobile WebView,0
+control,2020-07-03,15,CLT-L09,Chrome Mobile,0
+exposed,2020-07-10,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,22,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-J415FN,Samsung Internet,0
+exposed,2020-07-10,11,Samsung $2,Samsung Internet,1
+control,2020-07-10,9,Samsung SM-G950F,Chrome Mobile WebView,0
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,5,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,18,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G970F,Samsung Internet,0
+exposed,2020-07-05,16,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-09,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,9,Generic Smartphone,Chrome Mobile,1
+control,2020-07-06,8,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,7,Samsung SM-G986B,Facebook,1
+exposed,2020-07-09,3,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G935F,Samsung Internet,1
+exposed,2020-07-03,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G973F,Facebook,0
+exposed,2020-07-08,15,VOG-L29,Facebook,0
+control,2020-07-03,15,Samsung SM-A705FN,Facebook,0
+exposed,2020-07-06,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,17,LG-$2,Chrome Mobile WebView,1
+exposed,2020-07-10,1,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A705FN,Facebook,1
+control,2020-07-03,15,Pixel 3,Facebook,1
+exposed,2020-07-05,8,Samsung SM-J730F,Chrome Mobile WebView,1
+control,2020-07-04,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,2,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,3,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,13,Generic Smartphone,Facebook,0
+exposed,2020-07-05,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,19,Samsung SM-G960F,Samsung Internet,1
+control,2020-07-07,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Facebook,1
+exposed,2020-07-07,20,Samsung SM-N960F,Chrome Mobile WebView,0
+control,2020-07-10,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,15,Samsung SM-G950F,Chrome Mobile WebView,1
+exposed,2020-07-04,19,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,2,Generic Smartphone,Facebook,0
+exposed,2020-07-10,1,HTC U12+,Chrome Mobile,0
+control,2020-07-05,8,Samsung SM-G770F,Samsung Internet,0
+exposed,2020-07-06,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,3,Samsung SM-J330G,Facebook,0
+control,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,16,Samsung SM-A105FN,Chrome Mobile WebView,0
+control,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-A715F,Facebook,1
+control,2020-07-10,0,Nokia undefined$2$3,Chrome Mobile,1
+exposed,2020-07-09,4,Samsung SM-G975F,Chrome Mobile WebView,0
+exposed,2020-07-03,0,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,6,ELE-L09,Chrome Mobile WebView,1
+exposed,2020-07-06,1,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,14,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,3,Samsung SM-G970F,Samsung Internet,1
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,1,Samsung SM-J330FN,Samsung Internet,0
+exposed,2020-07-09,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,10,I3312,Facebook,0
+control,2020-07-03,15,POT-LX1,Facebook,1
+control,2020-07-09,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,10,G3311,Facebook,0
+exposed,2020-07-03,10,Samsung SM-G973F,Samsung Internet,0
+control,2020-07-05,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,8,Samsung SM-G975F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G950F,Facebook,1
+control,2020-07-05,18,Samsung SM-J320FN,Chrome Mobile,0
+control,2020-07-04,20,Samsung SM-G970F,Facebook,1
+exposed,2020-07-05,17,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-07,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,6,Samsung SM-G960F,Samsung Internet,1
+control,2020-07-08,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,21,YAL-L21,Chrome Mobile WebView,1
+exposed,2020-07-08,13,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,13,Samsung SM-G950F,Facebook,0
+control,2020-07-09,11,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,18,Samsung SM-G960F,Chrome Mobile WebView,1
+exposed,2020-07-04,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Samsung SM-J510FN,Samsung Internet,0
+exposed,2020-07-05,10,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,8,XiaoMi Redmi 6A,Facebook,0
+exposed,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,9,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-06,9,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,3,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-10,12,ANE-LX1,Facebook,1
+control,2020-07-07,8,Samsung SM-G955F,Chrome Mobile WebView,1
+exposed,2020-07-08,15,SNE-LX1,Facebook,0
+control,2020-07-09,19,Samsung SM-N976B,Facebook,0
+control,2020-07-10,6,Samsung SM-G973F,Chrome Mobile WebView,1
+exposed,2020-07-04,2,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-06,7,Samsung SM-G960F,Samsung Internet,0
+control,2020-07-07,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,16,Samsung SM-G935F,Samsung Internet,0
+control,2020-07-08,21,LG-$2,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,12,Samsung SM-A105FN,Chrome Mobile,0
+exposed,2020-07-05,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,2,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,10,Samsung SM-J600FN,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,2,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,2,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-07,17,Samsung SM-G980F,Samsung Internet,0
+control,2020-07-03,15,ANE-LX1,Facebook,1
+exposed,2020-07-04,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-10,4,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,4,Nokia undefined$2$3,Chrome Mobile,0
+exposed,2020-07-09,10,Samsung SM-G935F,Facebook,0
+control,2020-07-03,15,Samsung SM-G988B,Facebook,1
+exposed,2020-07-05,7,LG-$2,Chrome Mobile WebView,0
+control,2020-07-08,21,Samsung SM-A405FN,Facebook,1
+control,2020-07-03,15,Samsung SM-A405FN,Samsung Internet,1
+exposed,2020-07-09,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,10,Samsung SM-G975F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,0,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,0,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,0,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,5,Samsung SM-A202F,Samsung Internet,0
+exposed,2020-07-04,4,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-05,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A520F,Facebook,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,3,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,12,Huawei Browser,Chrome,1
+control,2020-07-10,8,Samsung SM-A705FN,Samsung Internet,1
+control,2020-07-05,1,Samsung $2,Samsung Internet,0
+control,2020-07-10,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,8,MRD-LX1,Chrome Mobile WebView,0
+control,2020-07-09,7,Samsung SM-J320FN,Facebook,0
+exposed,2020-07-08,18,Samsung SM-G965U1,Facebook,0
+exposed,2020-07-03,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,6,Samsung SM-A705FN,Samsung Internet,1
+control,2020-07-08,22,Generic Smartphone,Chrome Mobile,1
+control,2020-07-07,17,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,1,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G960F,Facebook,0
+exposed,2020-07-09,14,Nokia$2$3,Chrome Mobile WebView,0
+exposed,2020-07-09,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,17,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,10,Samsung SM-G900F,Chrome Mobile WebView,0
+control,2020-07-10,16,Samsung SM-A320FL,Samsung Internet,1
+control,2020-07-03,15,iPhone,Mobile Safari,0
+control,2020-07-03,15,iPhone,Mobile Safari UI/WKWebView,0
+exposed,2020-07-06,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,8,Samsung SM-G973F,Facebook,1
+control,2020-07-04,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,19,Samsung SM-G960F,Samsung Internet,1
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,16,Samsung SM-G980F,Chrome Mobile WebView,1
+exposed,2020-07-09,16,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,9,Nokia$2$3,Chrome Mobile WebView,1
+exposed,2020-07-07,0,Moto $2,Chrome Mobile WebView,0
+exposed,2020-07-06,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,5,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G970F,Samsung Internet,1
+exposed,2020-07-05,13,Generic Smartphone,Chrome Mobile,1
+control,2020-07-07,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,0,VTR-L09,Chrome Mobile WebView,0
+exposed,2020-07-05,11,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,14,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,23,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,1,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-A320FL,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,10,Samsung SM-G973F,Facebook,0
+exposed,2020-07-05,8,Samsung SM-G960F,Samsung Internet,0
+exposed,2020-07-07,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,11,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,7,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,21,LG-$2,Chrome Mobile,1
+exposed,2020-07-05,15,Samsung SM-A105FN,Samsung Internet,0
+exposed,2020-07-09,17,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,14,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,7,Samsung SM-N960F,Chrome Mobile WebView,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,22,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,3,Samsung SM-G973F,Samsung Internet,0
+control,2020-07-03,15,Samsung SM-G973F,Facebook,1
+control,2020-07-09,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,16,Samsung SM-A405FN,Samsung Internet,1
+control,2020-07-04,3,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,22,Samsung SM-G960F,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,4,Samsung SM-G930F,Chrome Mobile WebView,1
+exposed,2020-07-05,8,Samsung SM-G960F,Chrome Mobile,0
+exposed,2020-07-04,16,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G930F,Samsung Internet,1
+exposed,2020-07-03,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,11,Samsung SM-A320FL,Samsung Internet,0
+exposed,2020-07-04,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,6,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,14,CLT-L09,Facebook,0
+exposed,2020-07-04,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,9,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,17,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,12,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-10,12,Samsung $2,Samsung Internet,0
+exposed,2020-07-10,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,14,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-04,11,Samsung SM-G950F,Samsung Internet,1
+exposed,2020-07-09,12,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,13,Samsung SM-G960F,Facebook,0
+control,2020-07-07,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,20,Samsung SM-A705FN,Facebook,0
+control,2020-07-08,14,Samsung SM-A520F,Facebook,0
+control,2020-07-09,10,Samsung SM-G960F,Facebook,1
+exposed,2020-07-09,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,3,iPhone,Mobile Safari,1
+control,2020-07-03,15,Samsung $2,Samsung Internet,1
+control,2020-07-08,14,Samsung SM-G960F,Samsung Internet,0
+exposed,2020-07-05,10,Samsung SM-G973F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,14,Samsung SM-A600FN,Samsung Internet,1
+exposed,2020-07-05,0,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,12,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,MRD-LX1,Facebook,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,5,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,4,Samsung SM-A202F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,9,Samsung SM-J530F,Samsung Internet,1
+exposed,2020-07-04,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,18,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,7,Samsung SM-G970F,Samsung Internet,0
+control,2020-07-10,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,10,Samsung SM-N950F,Facebook,1
+control,2020-07-03,15,MAR-LX1A,Facebook,0
+exposed,2020-07-08,20,VFD 700,Chrome Mobile WebView,1
+exposed,2020-07-10,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,8,Samsung SM-G960F,Facebook,1
+control,2020-07-03,15,Samsung SM-A310F,Samsung Internet,1
+control,2020-07-04,15,Samsung SM-G973F,Facebook,1
+control,2020-07-03,15,Samsung SM-G973F,Facebook,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,10,Samsung SM-A405FN,Chrome Mobile WebView,0
+exposed,2020-07-06,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,5,Samsung SM-G950F,Chrome Mobile WebView,1
+exposed,2020-07-04,11,Nokia undefined$2$3,Chrome Mobile,1
+control,2020-07-04,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,9,Samsung SM-N920I,Chrome Mobile WebView,0
+exposed,2020-07-08,5,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,18,Samsung SM-G960F,Facebook,1
+control,2020-07-04,11,Generic Smartphone,Chrome Mobile,1
+control,2020-07-07,9,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,18,Samsung SM-G977B,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,18,Samsung SM-G970F,Samsung Internet,1
+exposed,2020-07-05,10,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,4,Samsung SM-G975F,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-G930F,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,4,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,0,XiaoMi MI 8 Pro,Facebook,1
+control,2020-07-04,5,Nokia$2$3,Chrome Mobile,0
+control,2020-07-04,2,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,16,Samsung SM-N970F,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,6,Samsung SM-G981B,Samsung Internet,1
+exposed,2020-07-03,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,6,ELE-L09,Facebook,1
+control,2020-07-08,20,ELE-L09,Facebook,0
+control,2020-07-10,17,ELE-L29,Facebook,1
+control,2020-07-07,5,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,13,Samsung SM-G975F,Facebook,0
+control,2020-07-03,15,Samsung SM-G930F,Samsung Internet,0
+exposed,2020-07-06,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,13,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,17,Samsung SM-A507FN,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,15,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-09,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G950F,Facebook,0
+control,2020-07-05,14,MAR-LX1A,Facebook,1
+exposed,2020-07-06,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,22,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-04,20,Samsung SM-J330FN,Samsung Internet,0
+exposed,2020-07-04,8,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-10,16,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,8,Samsung SM-A202F,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,12,Nokia$2$3,Facebook,0
+exposed,2020-07-05,3,iPhone,Mobile Safari,1
+control,2020-07-10,8,Samsung SM-G973F,Chrome Mobile WebView,1
+exposed,2020-07-10,15,Samsung SM-G950F,Samsung Internet,0
+control,2020-07-06,10,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,3,Nokia undefined$2$3,Chrome Mobile,1
+exposed,2020-07-10,2,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,2,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,22,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-05,7,Samsung SM-G975F,Samsung Internet,1
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,19,Samsung SM-A105FN,Samsung Internet,0
+exposed,2020-07-08,21,Samsung SM-G950F,Facebook,0
+exposed,2020-07-03,0,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,17,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-J600FN,Samsung Internet,0
+exposed,2020-07-03,3,Samsung SM-G975F,Chrome Mobile WebView,1
+exposed,2020-07-09,21,Samsung SM-G975F,Samsung Internet,0
+control,2020-07-06,1,MAR-LX1A,Facebook,0
+exposed,2020-07-03,13,Samsung SM-A750FN,Chrome Mobile WebView,1
+control,2020-07-04,5,Generic Smartphone,Chrome Mobile,1
+control,2020-07-07,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,7,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-05,13,Samsung SM-G950F,Samsung Internet,0
+control,2020-07-05,5,CLT-L09,Chrome Mobile WebView,0
+exposed,2020-07-08,12,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,17,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,8,Samsung SM-G950F,Chrome Mobile WebView,0
+control,2020-07-04,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,17,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,13,Samsung SM-A300FU,Chrome Mobile WebView,0
+exposed,2020-07-07,14,Samsung SM-G960F,Samsung Internet,0
+exposed,2020-07-09,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,5,Samsung SM-A505FN,Samsung Internet,0
+control,2020-07-05,21,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,0,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,11,POT-LX1,Chrome Mobile WebView,0
+exposed,2020-07-08,22,Samsung SM-G980F,Facebook,0
+control,2020-07-10,15,Samsung SM-A105FN,Samsung Internet,1
+control,2020-07-03,15,Samsung SM-A515F,Chrome Mobile WebView,0
+control,2020-07-05,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,6,PRA-LX1,Chrome Mobile WebView,0
+control,2020-07-10,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,10,Samsung SM-G965F,Facebook,1
+exposed,2020-07-09,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,18,Samsung SM-A202F,Samsung Internet,1
+exposed,2020-07-06,2,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,14,Generic Smartphone,Facebook,1
+exposed,2020-07-03,8,Samsung SM-G920F,Chrome Mobile WebView,1
+exposed,2020-07-09,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,3,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,5,iPhone,Mobile Safari,0
+exposed,2020-07-09,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,6,Samsung SM-G960F,Facebook,1
+control,2020-07-06,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,0,Samsung SM-G950F,Facebook,0
+control,2020-07-09,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,7,HTC Desire $2,Chrome Mobile,1
+control,2020-07-08,16,Samsung SM-G930F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,10,I3312,Chrome Mobile WebView,1
+exposed,2020-07-10,1,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,9,A0001,Chrome Mobile WebView,1
+exposed,2020-07-10,14,Samsung SM-N960F,Samsung Internet,0
+exposed,2020-07-04,14,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,18,Samsung SM-J330FN,Samsung Internet,1
+exposed,2020-07-04,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A320FL,Samsung Internet,0
+control,2020-07-03,15,Samsung SM-N950F,Chrome Mobile WebView,0
+exposed,2020-07-09,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,1,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,7,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,15,Samsung SM-A405FN,Samsung Internet,0
+exposed,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,10,LG-$2,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,22,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,9,Samsung SM-A505FN,Samsung Internet,0
+exposed,2020-07-07,9,Samsung SM-G900F,Samsung Internet,0
+control,2020-07-09,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,15,MRD-LX1,Chrome Mobile,1
+control,2020-07-09,13,Samsung SM-G986B,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-A505FN,Facebook,1
+exposed,2020-07-03,5,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G973F,Samsung Internet,0
+exposed,2020-07-03,10,EVR-N29,Chrome Mobile WebView,0
+exposed,2020-07-06,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,10,I3312,Chrome Mobile WebView,0
+control,2020-07-04,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,15,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-10,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,1,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,4,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,5,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G960F,Chrome Mobile WebView,0
+exposed,2020-07-03,9,Samsung SM-A202F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-07,10,LYA-L09,Chrome Mobile WebView,0
+exposed,2020-07-08,12,Samsung SM-G610F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,14,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,1,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,10,ANE-LX1,Chrome Mobile WebView,0
+exposed,2020-07-10,1,Samsung SM-A920F,Chrome Mobile WebView,0
+control,2020-07-07,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,12,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,4,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,0,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-10,14,iPhone,Mobile Safari UI/WKWebView,0
+exposed,2020-07-10,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,7,Samsung SM-A405FN,Chrome Mobile WebView,0
+control,2020-07-09,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,15,Samsung SM-G960F,Facebook,1
+control,2020-07-09,12,Samsung SM-G950F,Facebook,1
+control,2020-07-05,7,Samsung SM-G977B,Facebook,1
+control,2020-07-10,7,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-04,12,iPhone,Mobile Safari,0
+exposed,2020-07-07,21,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,17,Samsung SM-A515F,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-G980F,Facebook,0
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-07,21,Samsung SM-A105FN,Facebook,1
+control,2020-07-03,15,MAR-LX1A,Facebook,0
+exposed,2020-07-04,6,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,11,Samsung SM-G950F,Chrome Mobile WebView,1
+exposed,2020-07-04,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,22,LG-$2,Facebook,1
+control,2020-07-09,1,Samsung SM-J415FN,Samsung Internet,1
+exposed,2020-07-09,16,Samsung SM-G965F,Samsung Internet,0
+exposed,2020-07-04,14,Samsung SM-J610FN,Chrome Mobile WebView,1
+exposed,2020-07-08,18,Nokia undefined$2$3,Chrome Mobile,1
+exposed,2020-07-07,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,2,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,17,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,8,Samsung SM-G930F,Chrome Mobile WebView,1
+exposed,2020-07-10,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G960F,Facebook,0
+control,2020-07-06,1,iPhone,Mobile Safari,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,2,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,1,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,1,IMO $2,Chrome Mobile,1
+exposed,2020-07-07,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,17,Samsung SM-G900F,Chrome Mobile WebView,1
+exposed,2020-07-09,3,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,14,Samsung SM-A320FL,Samsung Internet,0
+exposed,2020-07-08,18,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G960F,Facebook,0
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-06,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,3,VFD 820,Chrome Mobile WebView,0
+control,2020-07-06,10,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,14,Samsung SM-G965F,Chrome Mobile WebView,1
+control,2020-07-07,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,19,Samsung SM-G960F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,22,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,6,Samsung SM-A505FN,Chrome Mobile WebView,0
+exposed,2020-07-09,20,CLT-L09,Facebook,0
+exposed,2020-07-04,11,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,23,Generic Smartphone,Chrome Mobile,1
+control,2020-07-06,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,14,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,11,Samsung SM-A530F,Samsung Internet,1
+control,2020-07-04,17,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G960F,Chrome Mobile WebView,0
+exposed,2020-07-06,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,18,Samsung SM-G950F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,LG-$2,Chrome Mobile WebView,0
+exposed,2020-07-03,5,XiaoMi MI MAX 3,Chrome Mobile WebView,1
+exposed,2020-07-08,18,Samsung SM-G950F,Chrome Mobile WebView,1
+control,2020-07-10,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,7,Samsung SM-G960F,Chrome Mobile WebView,1
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-06,7,Nokia$2$3,Chrome Mobile WebView,1
+control,2020-07-05,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,1,Samsung SM-G960F,Chrome Mobile WebView,0
+exposed,2020-07-10,3,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,19,Samsung SM-G935F,Samsung Internet,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,19,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,7,Pixel 4,Chrome Mobile WebView,0
+exposed,2020-07-04,5,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,11,Samsung SM-J600FN,Samsung Internet,0
+control,2020-07-10,15,Samsung $2,Samsung Internet,1
+exposed,2020-07-07,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,4,I3312,Facebook,0
+control,2020-07-09,5,Samsung SM-G960F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,13,F3311,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-G960F,Samsung Internet,1
+control,2020-07-03,15,Samsung SM-A405FN,Samsung Internet,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,4,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,9,iPhone,Mobile Safari,1
+control,2020-07-03,15,Samsung SM-G930F,Samsung Internet,0
+exposed,2020-07-03,11,Generic Smartphone,Facebook,1
+exposed,2020-07-09,18,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,17,Samsung SM-G965F,Chrome Mobile WebView,1
+control,2020-07-10,5,Pixel 3,Facebook,1
+exposed,2020-07-05,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,7,Samsung SM-G950F,Chrome Mobile WebView,0
+exposed,2020-07-09,22,Samsung SM-A600FN,Chrome Mobile WebView,1
+control,2020-07-07,21,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,5,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,14,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,0,Samsung SM-G975F,Facebook,1
+control,2020-07-03,15,iPhone,Mobile Safari,0
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,21,Samsung SM-G950F,Chrome Mobile WebView,1
+exposed,2020-07-03,14,Samsung SM-G935F,Chrome Mobile WebView,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,17,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,12,Samsung SM-A300FU,Facebook,0
+control,2020-07-09,9,Samsung SM-A105FN,Samsung Internet,1
+control,2020-07-08,19,Samsung SM-A105FN,Samsung Internet,1
+exposed,2020-07-09,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,9,Generic Smartphone,Facebook,0
+exposed,2020-07-08,17,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,11,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,13,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,21,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,12,LG-$2,Chrome Mobile,1
+exposed,2020-07-08,21,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,17,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,16,Samsung SM-G955F,Facebook,1
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,5,Pixel 2,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-A405FN,Samsung Internet,1
+exposed,2020-07-08,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,6,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-05,5,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,3,Samsung SM-G960F,Chrome Mobile WebView,0
+exposed,2020-07-06,10,Samsung SM-G950F,Chrome Mobile WebView,0
+control,2020-07-03,15,EML-L09,Chrome Mobile WebView,0
+exposed,2020-07-04,7,OnePlus ONEPLUS A5010,Chrome Mobile WebView,1
+exposed,2020-07-04,6,Samsung SM-G950F,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-G770F,Samsung Internet,0
+exposed,2020-07-09,17,Samsung SM-A405FN,Samsung Internet,0
+control,2020-07-06,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,2,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,11,Samsung SM-A202F,Samsung Internet,1
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,22,Samsung SM-G973F,Facebook,0
+exposed,2020-07-03,11,Samsung SM-A505FN,Chrome Mobile WebView,0
+exposed,2020-07-04,13,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,2,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,21,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,3,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,7,TA-1033,Chrome Mobile WebView,1
+control,2020-07-06,0,Pixel 3,Facebook,1
+control,2020-07-03,15,Samsung SM-G965F,Facebook,0
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-A105FN,Chrome Mobile,1
+control,2020-07-07,8,Samsung SM-J330FN,Samsung Internet,0
+control,2020-07-09,18,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,14,Samsung SM-A202F,Chrome Mobile WebView,0
+exposed,2020-07-03,13,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,14,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,12,Samsung SM-G960F,Facebook,1
+exposed,2020-07-10,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,13,Pixel 3a,Chrome Mobile WebView,1
+control,2020-07-04,9,Samsung SM-G935F,Facebook,0
+exposed,2020-07-05,18,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,2,Samsung SM-G973F,Samsung Internet,0
+control,2020-07-10,0,Samsung SM-G960F,Facebook,0
+exposed,2020-07-08,14,Samsung SM-G960F,Chrome Mobile WebView,1
+exposed,2020-07-09,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,18,Samsung SM-J600FN,Chrome Mobile WebView,0
+exposed,2020-07-08,0,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,13,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,1,Samsung SM-N976B,Chrome Mobile WebView,1
+exposed,2020-07-03,12,Samsung SM-A505FN,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-04,11,LG-$2,Chrome Mobile,1
+exposed,2020-07-10,2,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,15,Pixel 4,Chrome Mobile WebView,0
+exposed,2020-07-10,0,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,13,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,0,Samsung SM-A505FN,Chrome Mobile WebView,1
+control,2020-07-09,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,17,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,11,Samsung SM-N950F,Facebook,0
+exposed,2020-07-04,6,Samsung $2,Chrome Mobile WebView,0
+exposed,2020-07-05,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,5,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A405FN,Samsung Internet,0
+control,2020-07-05,3,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,0,Samsung SM-A202F,Chrome Mobile WebView,1
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G988B,Chrome Mobile WebView,0
+exposed,2020-07-05,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,9,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,6,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,17,Samsung SM-G975F,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,1,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G920F,Chrome Mobile WebView,0
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,22,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,9,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,16,Samsung SM-A202F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,6,Samsung SM-G965F,Chrome Mobile WebView,1
+control,2020-07-09,9,Samsung SM-A202F,Chrome Mobile WebView,1
+exposed,2020-07-07,10,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,11,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,12,OnePlus ONEPLUS A6013,Chrome Mobile WebView,1
+exposed,2020-07-04,2,ANE-LX1,Facebook,1
+exposed,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,10,Samsung SM-G970F,Chrome Mobile WebView,1
+control,2020-07-04,10,DLI-L22,Facebook,0
+exposed,2020-07-03,8,Samsung SM-G770F,Chrome Mobile WebView,1
+control,2020-07-04,12,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A705FN,Facebook,1
+control,2020-07-07,19,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-A105FN,Samsung Internet,0
+control,2020-07-09,17,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,9,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-03,15,iPhone,Mobile Safari,0
+exposed,2020-07-04,8,Samsung SM-J530F,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,16,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,5,Samsung SM-G960F,Samsung Internet,1
+exposed,2020-07-07,13,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-09,9,Moto $2,Chrome Mobile WebView,0
+exposed,2020-07-10,9,Generic Smartphone,Facebook,1
+exposed,2020-07-08,20,Samsung SM-J320FN,Samsung Internet,1
+exposed,2020-07-10,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,12,Samsung SM-G986B,Samsung Internet,0
+control,2020-07-07,10,Samsung SM-G930F,Samsung Internet,1
+control,2020-07-05,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,12,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,22,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,10,Samsung SM-G960F,Chrome Mobile WebView,0
+control,2020-07-04,13,Samsung SM-A530F,Samsung Internet,0
+control,2020-07-05,4,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-06,10,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,21,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,11,iPhone,Mobile Safari,0
+control,2020-07-09,19,Samsung SM-G960F,Samsung Internet,1
+exposed,2020-07-07,9,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-09,21,Samsung SM-G960F,Chrome Mobile WebView,1
+control,2020-07-10,1,POT-LX1,Facebook,1
+control,2020-07-04,13,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,16,Samsung SM-G965F,Chrome Mobile WebView,1
+exposed,2020-07-03,9,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,5,Samsung SM-J330FN,Samsung Internet,0
+control,2020-07-09,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,5,Nokia undefined$2$3,Chrome Mobile,0
+control,2020-07-05,8,Samsung SM-G935F,Samsung Internet,0
+exposed,2020-07-10,6,Generic Smartphone,Facebook,0
+exposed,2020-07-03,13,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G930F,Samsung Internet,1
+exposed,2020-07-10,9,Samsung SM-G960F,Samsung Internet,0
+control,2020-07-03,15,Samsung SM-G975F,Facebook,0
+control,2020-07-08,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,23,VOG-L29,Facebook,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,20,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,3,Samsung SM-A520F,Samsung Internet,0
+control,2020-07-10,6,Samsung SM-G950F,Facebook,0
+control,2020-07-08,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,10,Nokia undefined$2$3,Chrome Mobile,0
+exposed,2020-07-09,0,HTC One $2,Chrome Mobile,1
+exposed,2020-07-09,21,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,17,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,7,Samsung SM-G950F,Facebook,1
+exposed,2020-07-04,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,0,Samsung SM-A310F,Samsung Internet,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,12,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-A530F,Samsung Internet,1
+exposed,2020-07-05,6,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,18,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,0,Generic Smartphone,Chrome Mobile WebView,1
+exposed,2020-07-09,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,20,Samsung SM-A505FN,Chrome Mobile WebView,1
+control,2020-07-05,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,15,PRA-LX1,Facebook,0
+exposed,2020-07-04,10,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,9,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,4,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,9,Samsung SM-A705FN,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-G960F,Facebook,0
+control,2020-07-03,15,Samsung SM-A405FN,Samsung Internet,0
+control,2020-07-03,15,Samsung SM-J810F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,14,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,4,Samsung SM-G920F,Chrome Mobile WebView,1
+exposed,2020-07-03,13,OnePlus ONEPLUS A3000,Chrome Mobile WebView,1
+control,2020-07-07,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,10,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,7,FIG-LX1,Chrome Mobile WebView,1
+exposed,2020-07-08,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,11,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,22,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,18,Samsung SM-J530F,Samsung Internet,1
+control,2020-07-05,1,Samsung SM-G950F,Samsung Internet,0
+control,2020-07-04,9,Samsung SM-J530F,Samsung Internet,0
+control,2020-07-03,15,Samsung SM-A320FL,Facebook,0
+exposed,2020-07-09,2,iPhone,Mobile Safari,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,21,Pixel 3,Chrome Mobile WebView,1
+exposed,2020-07-03,1,Samsung SM-A530F,Chrome Mobile WebView,1
+exposed,2020-07-06,3,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-05,14,Samsung SM-A202F,Samsung Internet,1
+control,2020-07-03,15,Samsung SM-G935F,Samsung Internet,1
+control,2020-07-09,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,20,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,15,Samsung SM-G950F,Facebook,0
+exposed,2020-07-07,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,13,Samsung SM-A600FN,Facebook,1
+exposed,2020-07-04,11,Samsung SM-A600FN,Chrome Mobile WebView,0
+control,2020-07-03,15,XiaoMi MI 6,Facebook,0
+control,2020-07-04,12,ANE-LX1,Facebook,0
+exposed,2020-07-08,18,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,8,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,10,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,20,Samsung SM-G973F,Facebook,0
+exposed,2020-07-04,20,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-06,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,4,Samsung SM-A300FU,Chrome Mobile WebView,0
+control,2020-07-04,11,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,17,Samsung SM-G925F,Chrome Mobile WebView,0
+control,2020-07-08,21,EVA-L09,Chrome Mobile WebView,1
+control,2020-07-07,7,Nokia undefined$2$3,Chrome Mobile,0
+control,2020-07-04,20,X4_Soul_Infinity_Z,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,18,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,5,iPhone,Mobile Safari,1
+control,2020-07-03,15,Samsung SM-A530F,Samsung Internet,0
+exposed,2020-07-03,7,Samsung SM-G920F,Chrome Mobile WebView,0
+control,2020-07-08,21,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,16,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,14,LG-$2,Chrome Mobile WebView,1
+exposed,2020-07-09,10,Samsung SM-G955F,Samsung Internet,1
+control,2020-07-08,21,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,6,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G986B,Samsung Internet,1
+control,2020-07-05,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,18,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-08,7,Samsung SM-N976B,Facebook,1
+exposed,2020-07-08,15,Samsung SM-A202F,Samsung Internet,0
+exposed,2020-07-08,13,Samsung SM-A202F,Chrome Mobile WebView,0
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-08,19,Samsung SM-G960F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A202F,Samsung Internet,0
+control,2020-07-09,9,PCT-L29,Facebook,1
+exposed,2020-07-05,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,18,LYA-L09,Facebook,0
+control,2020-07-07,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,11,Samsung SM-G970F,Facebook,1
+control,2020-07-04,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,8,Samsung SM-G970F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,23,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,10,Samsung SM-J500FN,Chrome Mobile WebView,1
+exposed,2020-07-09,20,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,3,Samsung SM-J330F,Chrome Mobile WebView,0
+control,2020-07-09,14,Samsung SM-G973F,Facebook,0
+exposed,2020-07-05,19,Samsung SM-A505FN,Chrome Mobile WebView,1
+exposed,2020-07-10,5,Samsung SM-G965F,Chrome Mobile WebView,1
+exposed,2020-07-04,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,7,OnePlus ONEPLUS A6013,Chrome Mobile WebView,0
+exposed,2020-07-04,12,Samsung SM-G960F,Samsung Internet,0
+exposed,2020-07-09,6,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,8,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-06,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-09,21,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,9,Samsung SM-G935F,Facebook,1
+control,2020-07-05,5,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,8,Samsung SM-A750GN,Samsung Internet,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,14,VFD 720,Facebook,0
+exposed,2020-07-06,8,Pixel 3a,Chrome Mobile WebView,1
+control,2020-07-06,8,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,1,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,9,Samsung SM-G975F,Chrome Mobile WebView,0
+control,2020-07-06,1,Samsung SM-J600FN,Samsung Internet,0
+exposed,2020-07-05,3,Samsung SM-G950F,Chrome Mobile WebView,0
+control,2020-07-04,11,iPhone,Chrome Mobile iOS,1
+exposed,2020-07-05,9,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G981B,Facebook,1
+exposed,2020-07-03,13,Generic Smartphone,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-06,2,Nokia undefined$2$3,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G965F,Chrome Mobile WebView,1
+control,2020-07-08,14,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,4,Samsung SM-N960F,Chrome Mobile WebView,1
+exposed,2020-07-05,3,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,MAR-LX1A,Facebook,1
+exposed,2020-07-09,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,4,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-03,12,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-04,8,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,7,Samsung SM-A405FN,Samsung Internet,0
+exposed,2020-07-03,4,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-07,22,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,17,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,8,Pixel 2,Chrome Mobile WebView,0
+control,2020-07-03,15,Samsung SM-J330FN,Samsung Internet,1
+exposed,2020-07-09,9,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,3,Samsung SM-J610G,Facebook,0
+control,2020-07-03,15,G3311,Facebook,1
+control,2020-07-08,15,FIG-LX1,Facebook,1
+exposed,2020-07-07,13,Samsung SM-A202F,Chrome Mobile WebView,1
+exposed,2020-07-06,5,VTR-L09,Facebook,0
+control,2020-07-09,20,POT-LX1,Facebook,0
+exposed,2020-07-04,13,VCE-L22,Facebook,1
+exposed,2020-07-09,21,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-03,15,Pixel 2,Facebook,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,2,Samsung SM-G973F,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-G930F,Samsung Internet,1
+exposed,2020-07-04,6,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,7,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-07,20,Samsung SM-G970F,Chrome Mobile WebView,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,8,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-J330FN,Samsung Internet,0
+exposed,2020-07-09,13,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-08,20,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-A520F,Samsung Internet,0
+exposed,2020-07-10,3,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,4,Samsung SM-J530F,Samsung Internet,1
+exposed,2020-07-03,9,Generic Smartphone,Facebook,0
+control,2020-07-05,19,Samsung SM-G973F,Samsung Internet,0
+exposed,2020-07-08,14,Generic Smartphone,Chrome Mobile WebView,0
+exposed,2020-07-09,17,Samsung SM-G975F,Chrome Mobile WebView,1
+exposed,2020-07-04,1,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,7,Samsung SM-G930F,Samsung Internet,0
+exposed,2020-07-03,8,Samsung SM-J530F,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-N970F,Facebook,1
+exposed,2020-07-03,2,Samsung SM-A105FN,Samsung Internet,1
+exposed,2020-07-10,5,Samsung SM-G960F,Samsung Internet,0
+control,2020-07-06,3,Samsung SM-A105FN,Samsung Internet,1
+exposed,2020-07-05,13,Samsung SM-G950F,Chrome Mobile WebView,1
+control,2020-07-10,4,Samsung SM-A715F,Samsung Internet,1
+exposed,2020-07-06,4,Generic Smartphone,Chrome Mobile,1
+control,2020-07-03,15,Samsung SM-G935F,Samsung Internet,1
+exposed,2020-07-03,5,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Facebook,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-08,9,Samsung SM-N975F,Samsung Internet,0
+exposed,2020-07-03,0,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,17,iPhone,Mobile Safari UI/WKWebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-09,14,Generic Smartphone,Chrome Mobile,0
+control,2020-07-07,1,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,10,Samsung SM-G950F,Chrome Mobile WebView,1
+control,2020-07-07,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,19,Generic Smartphone,Chrome Mobile,0
+control,2020-07-06,5,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,8,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-10,8,Samsung SM-A300FU,Chrome Mobile WebView,0
+exposed,2020-07-05,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-04,2,Samsung SM-G930F,Facebook,0
+exposed,2020-07-04,13,VOG-L29,Chrome Mobile WebView,1
+exposed,2020-07-10,6,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,8,POT-LX1,Facebook,0
+exposed,2020-07-03,11,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-10,10,XiaoMi Redmi S2,Facebook,1
+exposed,2020-07-04,6,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-03,15,Samsung SM-J330FN,Samsung Internet,1
+control,2020-07-10,12,Samsung SM-A520F,Chrome Mobile WebView,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,1
+control,2020-07-05,3,Generic Smartphone,Chrome Mobile,0
+control,2020-07-03,15,Generic Smartphone,Chrome Mobile,0
+control,2020-07-05,4,CLT-L09,Chrome Mobile,0
+control,2020-07-03,15,Samsung SM-G975F,Samsung Internet,1
+control,2020-07-04,4,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-08,17,Samsung SM-G965F,Facebook,0
+exposed,2020-07-09,4,Generic Smartphone,Chrome Mobile WebView,1
+control,2020-07-10,1,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-09,14,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-10,8,Samsung SM-G973F,Samsung Internet,1
+exposed,2020-07-09,18,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-05,21,Generic Smartphone,Chrome Mobile,1
+exposed,2020-07-04,1,Generic Smartphone,Chrome Mobile,1
+control,2020-07-09,7,Generic Smartphone,Chrome Mobile,0
+control,2020-07-10,16,Generic Smartphone,Chrome Mobile,0
+exposed,2020-07-03,4,Generic Smartphone,Chrome Mobile,0
