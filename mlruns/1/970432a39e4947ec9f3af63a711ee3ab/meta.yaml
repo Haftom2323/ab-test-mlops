@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zefa-n/Documents/ab-test-mlops/mlruns/1/970432a39e4947ec9f3af63a711ee3ab/artifacts
+end_time: 1627220667774
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 970432a39e4947ec9f3af63a711ee3ab
+run_uuid: 970432a39e4947ec9f3af63a711ee3ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627220667590
+status: 3
+tags: []
+user_id: zefa-n

@@ -39,7 +39,6 @@ from sklearn import metrics
 from sklearn.metrics import mean_squared_error, mean_absolute_error,r2_score
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
-%matplotlib inline
 import seaborn as sns
 import xgboost as xgb
 from xgboost import XGBClassifier
@@ -50,7 +49,6 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error,r2_score
 from sklearn.metrics import accuracy_score, confusion_matrix
 
 import matplotlib.pyplot as plt
-%matplotlib inline
 import seaborn as sns
 
 import mlflow
@@ -109,8 +107,8 @@ if __name__ == "__main__":
         dt_result = cross_val_score(dt, X_train, y_train, cv=5)
         print(f"Decision Tree K=5 mean score accuracy = {round(dt_result.mean() * 100,2)} %")    # Log mlflow attributes for mlflow UI
         
-        mlflow.log_metric("accuracy", dt.score(X_test, y_test)}%)
-        mlflow.log_metric("K=5 mean score accuracy", round(dt_results.mean() * 100,2)} %)
+        mlflow.log_metric("accuracy", dt.score(X_test, y_test))
+       #mlflow.log_metric("K=5 mean score accuracy", round(dt_result.mean()))
         mlflow.sklearn.log_model(dt, "model")
 
     decision_tree(response)
